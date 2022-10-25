@@ -16,6 +16,12 @@ Abbiamo a cuore ogni Cliente che seguiamo, instaurando con lo stesso un rapporto
 
 Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il lavoro da svolgere, misurando gli obiettivi raggiunti piuttosto che il tempo lavorato, garantendo quindi **flessibilità** al team e la più completa **trasparenza** ai nostri Clienti attraverso l’invio di report settimanali/mensili.
 
+# 👾 Stack tecnologico
+
+<img src="/assets/stack/apollographql.svg" width=35px alt='Apollo Graph' title='Apollo Graph'>
+<img src="/assets/stack/chartjs.png" width=35px alt='ChartJS' title='ChartJS'>
+<img src="/assets/stack/commitizen.png" width=35px alt='Commitizen' title='Commitizen'>
+
 # 💪🏻 I nostri successi
 
 `Unicredit` | `Illimity Bank` | `Crédit Agricole` | `PagoPA` | `Borsa Italiana` | `Hype` | `Banca Sella` | `Banca Intesa` | `Banca d'Italia` | `Enel` | `Vodafone` | `Eurobet` | `Luxottica`
