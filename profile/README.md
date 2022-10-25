@@ -6,7 +6,7 @@ Ci occupiamo di sviluppare e manutenere Applicativi Web e Mobile sviluppati in *
 
 # 🚀 Mission
 
-La nostra mission è quella di essere per le aziende una fonte di sviluppo in modalità *full remote,* capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**.
+La nostra mission è quella di essere per le aziende una fonte di sviluppo in modalità _full remote,_ capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**.
 
 # ❤️ Value proposition
 
@@ -18,7 +18,7 @@ Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il
 
 # 💪🏻 Perché scegliere **bitRocket.dev**
 
-La società sostiene il **quality code, made smart.** 
+La società sostiene il **quality code, made smart.**
 Di seguito i problemi più diffusi nel mondo della sviluppo software.
 
 ### ✍🏻 **Errori di scrittura.**
@@ -26,13 +26,13 @@ Di seguito i problemi più diffusi nel mondo della sviluppo software.
 Durante lo sviluppo viene spesso data maggiore attenzione alla parte visiva del prodotto,
 senza avere cura della struttura interna del codice. La codebase risulta dunque di
 scarsa qualità: files molto lunghi, che ne rendono difficile la lettura, lo sviluppo
-di nuove funzionalità e l’ottimizzazione delle performance. 
+di nuove funzionalità e l’ottimizzazione delle performance.
 
 ### 📖 **Know-how inesistente.**
 
 Una codebase di scarsa qualità che risulta complessa da documentare è difficile
 da comprendere a fondo. Documentare un codice che non segue una struttura
-ben definita è una procedura macchinosa e poco efficace. 
+ben definita è una procedura macchinosa e poco efficace.
 Intervenire su una codebase poco strutturata risulta un’operazione
 complessa, soprattutto quando entra una nuova risorsa: i costi diventano
 insostenibili e la gestione del lavoro molto lenta, risultando poco
@@ -45,13 +45,13 @@ Operiamo principalmente nel settore **Fintech**, ma ci occupiamo di consulenza a
 
 ### Come operiamo?
 
-Stipuliamo contratti *time & material*, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
+Stipuliamo contratti _time & material_, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
 
 Alla fine di ogni mese inviamo al Cliente un computo dettagliato delle attività e delle ore lavorate dalle risorse impiegate.
 
 # 🥂 Case Histories
 
-**La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano. 
+**La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano.
 
 ### Unicredit
 
@@ -70,26 +70,30 @@ scrittura del codice.
 
 ### PagoPA
 
-*in aggiornamento*
+_in aggiornamento_
 
 ### Borsa Italiana
 
-*in aggiornamento*
+_in aggiornamento_
 
 ### Hype
 
-*in aggiornamento*
+_in aggiornamento_
 
 ### Banca Sella
 
-*in aggiornamento*
+_in aggiornamento_
 
 ### Banca d’Italia
 
-*in aggiornamento*
+_in aggiornamento_
 
 ### Banca Intesa
 
-*in aggiornamento*
+_in aggiornamento_
 
 La Società ha inoltre lavorato per aziende quali **Enel, Vodafone, Eurobet, Malossi, Caterpillar, Iungo, DoveVivo e Luxottica**
+
+# Vuoi saperne di più su di noi ?
+
+- [Manifesto](./MANIFEST.md)
