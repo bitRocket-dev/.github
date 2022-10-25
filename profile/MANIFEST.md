@@ -36,7 +36,7 @@ Un problema va prima di tutto risolto. Non lamentarti se c’è qualcosa che non
 
 ##### Continua a leggere
 
-- [Torna alla Home](./README.md)
-- [Come operiamo](./ABOUT.md)
-- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
-- [Case histories](./CASE_HISTORIES.md)
+- [Torna alla Home](https://github.com/bitRocket-dev)
+- [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)

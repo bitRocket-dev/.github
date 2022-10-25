@@ -27,7 +27,7 @@ Operiamo principalmente nel settore **Fintech**, ma ci occupiamo di consulenza a
 
 ##### Continua a leggere
 
-- [Torna alla Home](./README.md)
-- [Come operiamo](./ABOUT.md)
-- [Case histories](./CASE_HISTORIES.md)
-- [Il Manifesto del RocketDev](./MANIFEST.md)
+- [Torna alla Home](https://github.com/bitRocket-dev)
+- [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- [Il Manifesto del RocketDev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)

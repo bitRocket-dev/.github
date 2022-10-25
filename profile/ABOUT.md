@@ -6,7 +6,7 @@ Alla fine di ogni mese inviamo al Cliente un computo dettagliato delle attività
 
 ##### Continua a leggere
 
-- [Torna alla Home](./README.md)
-- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
-- [Case histories](./CASE_HISTORIES.md)
-- [Il Manifesto del RocketDev](./MANIFEST.md)
+- [Torna alla Home](https://github.com/bitRocket-dev)
+- [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- [Il Manifesto del RocketDev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)

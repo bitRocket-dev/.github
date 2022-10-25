@@ -45,7 +45,7 @@ La Società ha inoltre lavorato per aziende quali **Enel, Vodafone, Eurobet, Mal
 
 ##### Continua a leggere
 
-- [Torna alla Home](./README.md)
-- [Come operiamo](./ABOUT.md)
-- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
-- [Il Manifesto del RocketDev](./MANIFEST.md)
+- [Torna alla Home](https://github.com/bitRocket-dev)
+- [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- [Il Manifesto del RocketDev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)

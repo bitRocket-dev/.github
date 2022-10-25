@@ -18,7 +18,7 @@ Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il
 
 ##### Continua a leggere
 
-- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
-- [Come operiamo](./ABOUT.md)
-- [Case histories](./CASE_HISTORIES.md)
-- [Il Manifesto del RocketDev](./MANIFEST.md)
+- [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- [Il Manifesto del RocketDev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
