@@ -1,4 +1,4 @@
-# bitRocket.land
+# 🌎 bitRocket.land
 
 ---
 
@@ -16,7 +16,7 @@ Bisogna inoltre considerare il **target**: gli adopters di queste piattaforme so
 
 Considerando gli elevati costi di Decentraland e l’expertise acquisita grazie allo sviluppo del progetto **House of Mediterraneo** sviluppato per **Tuorlo Magazine** su **Roblox**, la scelta di di quest’ultima piattaforma ci appare ovvia, avendo imparato a conoscerne limiti e potenzialità.
 
-# 💡 Start-up
+# 🚀 Start-up
 
 L’obiettivo è quello di spostare la comunicazione di **bitRocket.dev** verso il **web 3.0**, sviluppando **bitRocket.land**, un luogo che racconti la storia dell’azienda, i suoi valori e le persone che ne fanno parte mediante la creazione di svariate **stagioni.**, partendo dagli inizi della società, passando per i giorni nostri, e arrivando allo sviluppo di un _complete world_ che racchiuda al suo interno diverse experience, tra cui la **bitRocket School**.
 
