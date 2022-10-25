@@ -1,10 +1,10 @@
 # Giorgio
 
+---
+
 ## 34 anni
 
 **+2 anni di esperienza**
-
-Tutti i consulenti della società bitRocket.dev s.r.l. hanno seguito un bootcamp di programmazione di 6 mesi, tenuto da **Riccardo Genova**, Sviluppatore e Trainer esperto con oltre 8 anni di esperienza nello sviluppo in Javascript, ReactJS e React Native. **Il maggior pregio di un Consulente bitRocket è l’attenzione alle performance e alle best practices durante la scrittura del codice.**
 
 # Presentazione
 
