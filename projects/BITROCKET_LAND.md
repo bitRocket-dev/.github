@@ -6,7 +6,7 @@
 
 La maggior parte della comunicazione al giorno d’oggi viene svolta attraverso i social più comuni come **Instagram**, **Facebook** e **LinkedIn** saturandoli di contenuti che nella maggior parte dei casi si assomigliano, portando avanti narrazioni unisone e monotematiche.
 
-**bitRocket.land** ha l'obiettivo di attivare un piano di comunicazione innovativo in linea lo **sviluppo tecnologico.** portato avanti dalla società.
+**bitRocket.land** ha l'obiettivo di portare avanti il concetto di _innovazione tecnologica_, già portata avanti in ambito sviluppo software, sul piano marketing.
 
 # 👨🏻‍💻 Due Diligence
 
