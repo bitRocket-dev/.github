@@ -33,3 +33,10 @@ Nei momenti di difficoltà potrai sempre contare sull’aiuto di qualcuno ma, im
 ### Non condividere problemi, ma soluzioni.
 
 Un problema va prima di tutto risolto. Non lamentarti se c’è qualcosa che non va ma, proponi soluzioni per risolvere il problema.
+
+##### Continua a leggere
+
+- [Torna alla Home](./README.md)
+- [Come operiamo](./ABOUT.md)
+- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
+- [Case histories](./CASE_HISTORIES.md)

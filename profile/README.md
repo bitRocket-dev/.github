@@ -16,84 +16,9 @@ Abbiamo a cuore ogni Cliente che seguiamo, instaurando con lo stesso un rapporto
 
 Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il lavoro da svolgere, misurando gli obiettivi raggiunti piuttosto che il tempo lavorato, garantendo quindi **flessibilità** al team e la più completa **trasparenza** ai nostri Clienti attraverso l’invio di report settimanali/mensili.
 
-# 💪🏻 Perché scegliere **bitRocket.dev**
+##### Continua a leggere
 
-La società sostiene il **quality code, made smart.**
-Di seguito i problemi più diffusi nel mondo della sviluppo software.
-
-### ✍🏻 **Errori di scrittura.**
-
-Durante lo sviluppo viene spesso data maggiore attenzione alla parte visiva del prodotto,
-senza avere cura della struttura interna del codice. La codebase risulta dunque di
-scarsa qualità: files molto lunghi, che ne rendono difficile la lettura, lo sviluppo
-di nuove funzionalità e l’ottimizzazione delle performance.
-
-### 📖 **Know-how inesistente.**
-
-Una codebase di scarsa qualità che risulta complessa da documentare è difficile
-da comprendere a fondo. Documentare un codice che non segue una struttura
-ben definita è una procedura macchinosa e poco efficace.
-Intervenire su una codebase poco strutturata risulta un’operazione
-complessa, soprattutto quando entra una nuova risorsa: i costi diventano
-insostenibili e la gestione del lavoro molto lenta, risultando poco
-efficiente soprattutto nelle prime fasi.
-
-# 🤓 **Consulting Solution**
-
-Il team **bitRocket.dev** ha l’obiettivo di offrire soluzioni **stabili**, **performanti** e **documentate**.
-Operiamo principalmente nel settore **Fintech**, ma ci occupiamo di consulenza anche nel settore **Gestionale**.
-
-### Come operiamo?
-
-Stipuliamo contratti _time & material_, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
-
-Alla fine di ogni mese inviamo al Cliente un computo dettagliato delle attività e delle ore lavorate dalle risorse impiegate.
-
-# 🥂 Case Histories
-
-**La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano.
-
-### Unicredit
-
-Per Unicredit abbiamo sviluppato un gestionale interno mirato ad anallizzare i dati dei correntisti.
-Di notevole successo è stato lo sviluppo di un’architettura React Oriented realizzata interamente in Javascript e jQuery, divenuta modello per tutti gli altri gestionali interni.
-
-### **Illimity Bank**
-
-Per Illimity Bank, abbiamo sviluppato **Illimity Connect**, il primo aggregatore finanziario italiano basato sulla direttiva PSD2.
-Il nostro intervento ha reso possibile la gestione di più conti correnti direttamente dall’applicativo di Illimity Bank.
-
-### Crédit Agricole
-
-Per Crédit Agricole ci siamo occupati di migliorare le performance dell’applicativo mobile, rivedendo l’intera architettura del progetto, allo scopo di definire standard e linee guida nella
-scrittura del codice.
-
-### PagoPA
-
-_in aggiornamento_
-
-### Borsa Italiana
-
-_in aggiornamento_
-
-### Hype
-
-_in aggiornamento_
-
-### Banca Sella
-
-_in aggiornamento_
-
-### Banca d’Italia
-
-_in aggiornamento_
-
-### Banca Intesa
-
-_in aggiornamento_
-
-La Società ha inoltre lavorato per aziende quali **Enel, Vodafone, Eurobet, Malossi, Caterpillar, Iungo, DoveVivo e Luxottica**
-
-# Vuoi saperne di più su di noi ?
-
-- [Manifesto](./MANIFEST.md)
+- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
+- [Come operiamo](./ABOUT.md)
+- [Case histories](./CASE_HISTORIES.md)
+- [Il Manifesto del RocketDev](./MANIFEST.md)

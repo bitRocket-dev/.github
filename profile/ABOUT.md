@@ -1,0 +1,12 @@
+### Come operiamo?
+
+Stipuliamo contratti _time & material_, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
+
+Alla fine di ogni mese inviamo al Cliente un computo dettagliato delle attività e delle ore lavorate dalle risorse impiegate.
+
+##### Continua a leggere
+
+- [Torna alla Home](./README.md)
+- [Perché scegliere bitRocket.dev](./WHY_BITROCKET-DEV.md)
+- [Case histories](./CASE_HISTORIES.md)
+- [Il Manifesto del RocketDev](./MANIFEST.md)
