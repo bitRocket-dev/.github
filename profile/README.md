@@ -1,6 +1,6 @@
 [<img src="/assets/images/join-discord.png" width=200px alt='Join Discord Server' title='Join Discord Server'>](https://discord.gg/EhwCjs5r5u)
 
-# 👋🏻 Hey man!
+# 👊🏾 Hey man!
 
 **bitRocket.dev s.r.l.** è una startup innovativa con sede a Palermo, costituita nel Dicembre 2020 dal Socio e Amministratore Unico [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev).
 
