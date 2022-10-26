@@ -1,6 +1,6 @@
 # ❤️ Principi basilari
 
-In bitRocket.dev crediamo fortemente nel valore umano e nell’importanza dei rapporti interpersonali. **Prima di essere colleghi siamo un gruppo di amici in cui ognuno ha rispetto per la diversità dell’altro**. Ogni persona deve sentirsi libera di esprimere sé stessa senza sentirsi giudicata. Per questo motivo è importante mantenere sempre un approccio amichevole, collaborativo e disponibile verso un’altra persona. Seguire questi principi guida ci aiuta nel mantenere un team unito, sinergico e collaborativo.
+In _bitRocket.dev_ crediamo fortemente nel valore umano e nell’importanza dei rapporti interpersonali. **Prima di essere colleghi siamo un gruppo di amici in cui ognuno ha rispetto per la diversità dell’altro**. Ogni persona si sente libera di esprimere sé stessa senza sentirsi giudicata. Per questo motivo è importante mantenere sempre un approccio amichevole, collaborativo e disponibile verso un’altra persona. Seguire questi principi guida ci aiuta nel mantenere un team unito, sinergico e collaborativo.
 
 ### 👤 Semplicità
 
@@ -39,7 +39,5 @@ Un problema va prima di tutto risolto. Non lamentarti se c’è qualcosa che non
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- 🕵🏻‍♂️ [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
