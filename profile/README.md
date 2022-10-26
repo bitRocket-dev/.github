@@ -1,4 +1,4 @@
-[<img src="/assets/images/join-discord.png" width=200px alt='Join Discord Server' title='Join Discord Server'>](https://discord.gg/EhwCjs5r5u)
+[<img src="/assets/images/join-discord.png" width=200px alt='Join Discord Server' title='Join Discord Server'>](https://discord.gg/EhwCjs5r5u) [<img src="/assets/images/follow-us-on-instagram.png" width=200px alt='Follow Us On Instagram' title='Follow Us On Instagram'>](https://www.instagram.com/bitrocket.dev/)
 
 # 👊🏾 Hey man!
 
