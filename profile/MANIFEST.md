@@ -1,26 +1,28 @@
 # ❤️ Principi basilari
 
-In _bitRocket.dev_ crediamo fortemente nel valore umano e nell’importanza dei rapporti interpersonali. **Prima di essere colleghi siamo un gruppo di amici in cui ognuno ha rispetto per la diversità dell’altro**. Ogni persona si sente libera di esprimere sé stessa senza sentirsi giudicata. Per questo motivo è importante mantenere sempre un approccio amichevole, collaborativo e disponibile verso un’altra persona. Seguire questi principi guida ci aiuta nel mantenere un team unito, sinergico e collaborativo.
+In _bitRocket.dev_ crediamo fortemente nel valore umano e nell’importanza dei rapporti interpersonali. **Non siamo colleghi, ma un gruppo di amici in cui ognuno ha rispetto per la diversità dell’altro**. Ogni persona si sente libera di esprimere sé stessa senza sentirsi giudicata. Per questo motivo manteniamo sempre un approccio amichevole, collaborativo e disponibile verso l'altro.
+
+Seguire i principi di seguito ci permette di mantenere un **team unito, sinergico e collaborativo.**
 
 ### 👤 Semplicità
 
-Utilizza sempre un linguaggio semplice e educato. Impara a conoscere gli altri e ricorda che ogni persona ha una sensibilità e un modo di comunicare diverso.
+**Utilizza sempre un linguaggio semplice e educato**. Impara a conoscere gli altri e ricorda che ogni persona ha una sensibilità e un modo di comunicare diverso.
 
 ### 👬 Umanità
 
-Il lato umano è ciò che rende il team di bitRocket davvero speciale. Non prenderti troppo sul serio e impara l’arte dell’autoironia.
+Il lato umano è ciò che rende il team di _bitRocket.dev_ davvero speciale. **Non prenderti troppo sul serio e impara l’arte dell’autoironia**.
 
 ### 🧠 Considerazione
 
-Considera sempre ciò che ha da dire l’altro. Impara ad ascoltare e a confrontarti con il prossimo. I punti di vista diversi dal tuo ti arricchiscono e sono fonte di riflessione.
+**Considera sempre ciò che ha da dire l’altro**. Impara ad ascoltare e a confrontarti con il prossimo. I punti di vista diversi dal tuo ti arricchiscono e sono fonte di riflessione.
 
 ### 🧍🏻 Cura
 
-Prenditi cura di te stesso. Sentiti libero di indossare ciò che vuoi ma ricorda di avere sempre un tono pulito e ordinato.
+**Prenditi cura di te stesso**. Sentiti libero di indossare ciò che vuoi ma ricorda di avere sempre un tono pulito e ordinato.
 
 ### 🧹 Ordine e Pulizia
 
-Tieni sempre in ordine lo spazio in cui lavori e ricordati di pulire e sistemare prima di andare via.
+**Tieni sempre in ordine lo spazio in cui lavori** e ricordati di pulire e sistemare prima di andare via.
 
 # 😱 Dipendente ? No, grazie!
 
