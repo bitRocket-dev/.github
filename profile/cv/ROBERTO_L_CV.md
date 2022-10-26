@@ -38,13 +38,15 @@ Sviluppo componenti ReactJS e React Native utilizzando EmotionJS e Storybook. De
 
 ---
 
+👉🏻 [Profilo GitHub](https://github.com/robertolaporta-bitrocketdev)
+
+👉🏻 [Profilo Gist](https://gist.github.com/robertolaporta-bitrocketdev)
+
+---
+
 # ::: ATTENZIONE :::
 
 **Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
-👉🏻 [GitHub](https://github.com/robertolaporta-bitrocketdev)
-
-👉🏻 [Gists](https://gist.github.com/robertolaporta-bitrocketdev)
 
 ---
 

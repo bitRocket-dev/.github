@@ -1,4 +1,4 @@
-### 🧑‍💻 Come operiamo?
+# 🧑‍💻 Come operiamo
 
 Stipuliamo contratti _time & material_, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
 
