@@ -15,5 +15,5 @@ Una codebase di scarsa qualità che risulta complessa da documentare è difficil
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 👨🏻‍💻 [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
-- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
+- 👨🏻‍💻 [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
+- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)

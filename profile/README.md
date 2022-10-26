@@ -67,7 +67,7 @@ Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati 
 
 Forniamo alle aziende una team di sviluppo in modalità _full remote,_ capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**, garantendo al team una **qualità della vita lavorativa unica**.
 
-🤓 [Leggi il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
+🤓 [Leggi il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
 
 # 👔 Consulenza
 
@@ -75,7 +75,7 @@ Forniamo alle aziende una team di sviluppo in modalità _full remote,_ capace di
 
 **Per noi lavorare equivale a coltivare una passione**, per questo abbiamo a cuore ogni progetto che sviluppiamo, offrendo una soluzione **stabile**, **performante** e **documentata**
 
-🕵🏻‍♂️ [Approfondisci le modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+🕵🏻‍♂️ [Approfondisci le modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
 
 # 🎓 School
 
@@ -95,19 +95,19 @@ In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per que
 
 | <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
 | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|      [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/ANDREA_CV.MD)      |     [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/CRISTIAN_CV.md)     |     [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/GABRIELE_CV.md)     |     [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/GIORGIO_CV.md)      |    [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/GIOVANNI_CV.md)     |
+|          [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD)          |         [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md)         |         [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md)         |         [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md)          |        [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md)         |
 |                                       React JS/Native Developer                                       |                                        React JS/Native Developer                                         |                                          React JS/Native Developer                                          |                                         React JS/Native Developer                                         |                                          React JS/Native Developer                                          |
 
 <div style="margin-bottom: 68px"></div>
 
 | <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/marioisca-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertolaporta-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
 | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-|     [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/GIULIANO_CV.md)     |      [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/MARIO_CV.md)       |      [Roberto L .](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/ROBERTO_L_CV.md)       |       [Roberto P .](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/ROBERTO_P_CV.md)        |    [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/profile/cv/VINCENZO_CV.md)     |
+|         [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md)         |          [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md)           |          [Roberto L .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md)           |           [Roberto P .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md)            |        [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md)         |
 |                                         React JS/Native Developer                                         |                                NodeJS and React JS/Native Developer                                |                                   Node JS and React Native Developer                                    |                                         React JS/Native Developer                                         |                                        React JS/Native Developer                                         |
 
 ---
 
 ##### Continua a leggere
 
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
 - 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
