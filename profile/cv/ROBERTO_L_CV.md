@@ -6,19 +6,19 @@
 
 ## 👋🏻 Presentazione
 
-Appassionato di videogame e di programmazione Back End e Front End. Subito dopo il liceo ho seguito un corso di programmazione alla Microsales (1 anno), successivamente mi sono iscritto alla Steve Jobs Academy. Entrambi i percorsi mi hanno permesso di consolidare le competenze sulla programmazione, con maggiore attenzione alla parte Front End su tecnologie Web (Html, Css e Javascript). Al termine del corso, durato 2 anni, ho partecipato al bootcamp di programmazione di bitRocket.dev dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**.
+Appassionato di videogame e di programmazione **Back End e Front End**. Subito dopo il liceo ho seguito un corso di programmazione alla _Microsales_ (1 anno), successivamente mi sono iscritto alla _Steve Jobs Academy_. Entrambi i percorsi mi hanno permesso di consolidare le competenze sulla programmazione, con maggiore attenzione alla parte Front End su tecnologie Web (Html, Css e Javascript). Al termine del corso, durato 2 anni, ho partecipato al bootcamp di programmazione di <code>bitRocket.dev</code> dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**.
 
 ## 🚀 Competenze
 
-`HTML5` | `CSS3` | `SASS` | `JavaScript` | `TypeScript` | `ReactJS` | `ReactNative` | `Git` | `Redux` | `Redux-Saga` | `EmotionJS` | `Styled-components` | `Prettier` | `ESLint` | `Commitlint` | `Storybook`
+`HTML5` | `CSS3` | `SASS` | `JavaScript` | `TypeScript` | `ReactJS` | `NodeJS` | `NestJS` | `Socket-io`| `Git` | `Redux` | `Redux-Saga` | `EmotionJS` | `Styled-components` | `Prettier` | `ESLint` | `Commitlint` | `Storybook`
 
 ## 👾 Esperienze principali
 
 **RocketCMS** 4 mesi
 
-**Front End ReactJS Developer**
+**Back End NodeJS Developer**
 
-Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione report e ferie.
+Sviluppo database in MongoDB e infrastruttura Back End in NodeJS utilizzando NestJS con relativa sviluppo API e websocket. Implementazione flusso di autenticazione con JWT.
 
 ---
 
@@ -32,9 +32,9 @@ Architettura e sviluppo di un’intera applicazione Web per la gestione degli ut
 
 **RocketCMS** 12 mesi
 
-**Front End React JS/Native Developer**
+**Front End React JS Developer**
 
-Sviluppo componenti ReactJS e React Native utilizzando EmotionJS e Storybook. Definizione di custom hook per la condivisione di flussi Redux tra Web e Mobile.
+Sviluppo componenti ReactJS utilizzando EmotionJS e Storybook. Definizione di custom hook per la condivisione di flussi Redux tra Web e Mobile.
 
 ---
 

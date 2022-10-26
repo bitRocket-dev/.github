@@ -4,7 +4,7 @@
 
 # ⚽️ 🏈 🏀 Sport per il benessere
 
-In bitRocket.dev crediamo che lo sport sia fondamentale per il benessere psico-fisico di una persona. Per questo motivo **ogni mese un **Rocket Dev** ha diritto ad un rimborso fino ad un massimo di 80 euro, per lo svolgimento di attività sportive (palestra, calcetto, piscina etc…).**
+In <code>bitRocket.dev</code> crediamo che lo sport sia fondamentale per il benessere psico-fisico di una persona. Per questo motivo **ogni mese un **Rocket Dev** ha diritto ad un rimborso fino ad un massimo di 80 euro, per lo svolgimento di attività sportive (palestra, calcetto, piscina etc…).**
 
 # 💰 IT Budget
 

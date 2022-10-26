@@ -6,7 +6,7 @@
 
 ## 👋🏻 Presentazione
 
-Grande appassionato di programmazione con forte propensione all’apprendimento di nuove tecnologie. Dopo aver frequentato un corso di circa 2 anni alla Steve Jobs Academy dove ho consolidato le competenze sullo sviluppo Back End e Front End, la mia grande passione per la programmazione, mi ha portato ad imparare diverse tecnologie in ambito Web, dallo sviluppo di database a sistemi di crawling o gestione dati. Nel 2019 ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Nativ** su base **Typescript**.
+Grande appassionato di programmazione con forte propensione all’apprendimento di nuove tecnologie. Dopo aver frequentato un corso di circa 2 anni alla _Steve Jobs Academy_ dove ho consolidato le competenze sullo sviluppo **Back End e Front End**, la mia grande passione per la programmazione, mi ha portato ad imparare diverse tecnologie in ambito Web, dallo sviluppo di database a sistemi di crawling o gestione dati. Nel 2019 ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Nativ** su base **Typescript**.
 
 ## 🚀 Competenze
 

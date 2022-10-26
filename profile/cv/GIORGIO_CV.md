@@ -6,7 +6,7 @@
 
 ## 👋🏻 Presentazione
 
-Appassionato di sistemi hardware (Raspberry, Arduino etc...), con grande dedizione al lavoro. La passione per la programmazione nasce nel 2018. Seguendo alcuni corsi su Udemy e YouTube ho imparato le basi della programmazione Web (Html, Css e Javascript ). Nel 2019, con l’obiettivo di cambiare settore di lavoro, ho partecipato al bootcamp di programmazione di bitRocket.dev dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web in **ReactJS** su base **Typescript**, contribuendo allo sviluppo di diverse applicazioni all’interno dell’azienda, in particolar modo in ambito gestionale.
+Appassionato di sistemi hardware (Raspberry, Arduino etc...), con grande dedizione al lavoro. La passione per la programmazione nasce nel 2018. Seguendo alcuni corsi su _Udemy_ e _YouTube_ ho imparato le basi della programmazione Web (Html, Css e Javascript ). Nel 2019, con l’obiettivo di cambiare settore di lavoro, ho partecipato al bootcamp di programmazione di bitRocket.dev dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web in **ReactJS** su base **Typescript**, contribuendo allo sviluppo di diverse applicazioni all’interno dell’azienda, in particolar modo in ambito gestionale.
 
 ## 🚀 Competenze
 

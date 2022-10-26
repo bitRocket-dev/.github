@@ -4,7 +4,7 @@
 
 ## 👋🏻 Presentazione
 
-Appassionato di videogame, silenzioso e con grande dedizione al lavoro. Dopo il liceo ho studiato Javascript da auto-didatta acquistando alcuni corsi su Udemy e seguendo un corso di formazione su FreeCodeCamp di circa 6 mesi, successivamente ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**. Le diverse esperienze nel settore fintech e i diversi stack utilizzati mi hanno permesso di acquisire un’ampia visione sullo sviluppo Web/Mobile affrontando anche temi riguardanti la Blockchain e lo sviluppo di smart contract.
+Appassionato di videogame, silenzioso e con grande dedizione al lavoro. Dopo il liceo ho studiato Javascript da auto-didatta acquistando alcuni corsi su _Udemy_ e seguendo un corso di formazione su _FreeCodeCamp_ di circa 6 mesi, successivamente ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**. Le diverse esperienze nel settore fintech e i diversi stack utilizzati mi hanno permesso di acquisire un’ampia visione sullo sviluppo Web/Mobile affrontando anche temi riguardanti la Blockchain e lo sviluppo di smart contract.
 
 ## 🚀 Competenze
 

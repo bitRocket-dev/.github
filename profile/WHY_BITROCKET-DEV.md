@@ -10,10 +10,6 @@ Durante lo sviluppo viene spesso data maggiore attenzione alla parte visiva del 
 
 Una codebase di scarsa qualità che risulta complessa da documentare è difficile da comprendere a fondo. Documentare un codice che non segue una struttura ben definita è una procedura macchinosa e poco efficace. Intervenire su una codebase poco strutturata risulta un’operazione complessa, soprattutto quando entra una nuova risorsa: i costi diventano insostenibili e la gestione del lavoro molto lenta, risultando poco efficiente soprattutto nelle prime fasi.
 
-# 🤓 **Consulting Solution**
-
-Il team **bitRocket.dev** ha l’obiettivo di offrire soluzioni **stabili**, **performanti** e **documentate**. Operiamo principalmente nel settore **Fintech**, ma ci occupiamo di consulenza anche nel settore **Gestionale**.
-
 ---
 
 ##### Continua a leggere

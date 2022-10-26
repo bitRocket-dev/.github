@@ -1,7 +1,5 @@
 # 🥂 Case Histories
 
-**La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano.
-
 ### Unicredit
 
 Per Unicredit abbiamo sviluppato un gestionale interno mirato ad anallizzare i dati dei correntisti. Di notevole successo è stato lo sviluppo di un’architettura React Oriented realizzata interamente in Javascript e jQuery, divenuta modello per tutti gli altri gestionali interni.

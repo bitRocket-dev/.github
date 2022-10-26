@@ -6,7 +6,7 @@
 
 ## 👋🏻 Presentazione
 
-Appassionato di videogame, ho scoperto la programmazione subito dopo il diploma seguendo il percorso di formazione su FreeCodeCamp e diversi corsi su Udemy. Appassionato dello Sviluppo Web, nel 2019 mi sono iscritto alla Steve Jobs Academy che mi ha permesso di strutturare e approfondire le competenze nel mondo dello sviluppo Back End e Front End. Al termine del corso, durato 2 anni, ho partecipato al bootcamp di programmazione di bitRocket.dev dove ho imparato la metodologia Scrum, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**.
+Appassionato di videogame, ho scoperto la programmazione subito dopo il diploma seguendo il percorso di formazione su _FreeCodeCamp_ e diversi corsi su Udemy. Appassionato dello Sviluppo Web, nel 2019 mi sono iscritto alla _Steve Jobs Academy_ che mi ha permesso di strutturare e approfondire le competenze nel mondo dello sviluppo Back End e Front End. Al termine del corso, durato 2 anni, ho partecipato al bootcamp di programmazione di <code>bitRocket.dev</code> dove ho imparato la metodologia Scrum, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**.
 
 ## 🚀 Competenze
 

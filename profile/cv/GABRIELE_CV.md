@@ -6,7 +6,7 @@
 
 ## 👋🏻 Presentazione
 
-Appassionato di Design e con estrema attitudine al lavoro in team. Subito dopo essermi laureato in Disegno Industriale, ho scoperto la passione per lo sviluppo Front End partecipando al bootcamp di programmazione di bitRocket.dev dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Nativ** e su base **Typescript**. Le diverse esperienze in ambito Web e Mobile mi hanno permesso di avere un’ampia visione nello sviluppo di applicazioni cross-platform. Supportare le nuove risorse in azienda, durante il loro periodo di formazione, mi ha permesso di accrescere le competenze come team lead e di problem solving.
+Appassionato di Design e con estrema attitudine al lavoro in team. Subito dopo essermi laureato in Disegno Industriale, ho scoperto la passione per lo sviluppo Front End partecipando al bootcamp di programmazione di <code>bitRocket.dev</code> dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Nativ** e su base **Typescript**. Le diverse esperienze in ambito Web e Mobile mi hanno permesso di avere un’ampia visione nello sviluppo di applicazioni cross-platform. Supportare le nuove risorse in azienda, durante il loro periodo di formazione, mi ha permesso di accrescere le competenze come team lead e di problem solving.
 
 ## 🚀 Competenze
 

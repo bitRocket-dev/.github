@@ -1,5 +1,9 @@
 # 🧑‍💻 Come operiamo
 
+In bitRocket crediamo che non basta essere dei bravi tecnici, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
+
+Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il lavoro da svolgere, misurando gli obiettivi raggiunti piuttosto che il tempo lavorato, garantendo quindi **flessibilità** al team e la più completa **trasparenza** ai nostri Clienti attraverso l’invio di report settimanali/mensili.
+
 Stipuliamo contratti _time & material_, effettuando periodicamente insieme al Cliente, stime di massima delle giornate lavorative previste per ogni attività, individuando un costo orario delle risorse impiegate.
 
 Alla fine di ogni mese inviamo al Cliente un computo dettagliato delle attività e delle ore lavorate dalle risorse impiegate.
