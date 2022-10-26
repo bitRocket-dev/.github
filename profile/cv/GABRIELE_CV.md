@@ -1,20 +1,18 @@
-# Gabriele
+# 🤓 Gabriele
+
+##### 27 anni, +3 anni di esperienza
 
 ---
 
-## 27 anni
-
-**+3 anni di esperienza**
-
-# Presentazione
+## 👋🏻 Presentazione
 
 Appassionato di Design e con estrema attitudine al lavoro in team. Subito dopo essermi laureato in Disegno Industriale, ho scoperto la passione per lo sviluppo Front End partecipando al bootcamp di programmazione di bitRocket.dev dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Nativ** e su base **Typescript**. Le diverse esperienze in ambito Web e Mobile mi hanno permesso di avere un’ampia visione nello sviluppo di applicazioni cross-platform. Supportare le nuove risorse in azienda, durante il loro periodo di formazione, mi ha permesso di accrescere le competenze come team lead e di problem solving.
 
-# Competenze
+## 🚀 Competenze
 
 `HTML5` | `CSS3` | `SASS` | `JavaScript` | `NodeJS` | `TypeScript` | `ReactJS` | `ReactNative` | `Git` | `Redux` | `Redux-Toolkit` | `GraphQL` | `Apollo` | `EmotionJS` | `Styled-components` | `Prettier` | `ESLint` | `Commitlint` | `Storybook`
 
-# Esperienze principali
+## 👾 Esperienze principali
 
 **Luxottica** 8 mesi
 
@@ -48,19 +46,9 @@ Sviluppo componenti ReactJS e dei flussi Redux. In particolar modo mi sono occup
 
 ---
 
-## ATTENZIONE
+# ::: ATTENZIONE :::
 
-Il Consulente è un dipendente della bitRocket.dev s.r.l. . Qualora questo venga incaricato di svolgere attività presso altri clienti, mantiene la livrea del consulente e come tale deve essere presentato, dando visibilità al marchio bitRocket.dev anche nei confronti del cliente finale, evitando ogni comportamento potenzialmente idoneo a creare confusione presso il pubblico, anche ai sensi dell’art. 2958 c.c.
+**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
 
-_bitRocket.dev_ assicura la disponibilità a tempo pieno del Consulente, per complessive 40 ore a settimana. L’attività di consulenza può essere svolta esclusivamente da remoto. Ordinariamente il servizio è erogato dal lunedì al venerdì, dalle ore 09:00 alle ore 13 e dalle ore 14 alle ore 18:00.
-
-**E’ vietata ogni comunicazione diretta tra il cliente e il Consulente riguardo aspetti amministrativi.**
-
-**Le informazioni contenute in questo documento sono riservate.**
-
-**Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati.**
-
-**L’ utilizzo non autorizzato potrebbe costituire reato.**
-
-[Profilo GitHub](https://github.com/gabrielepolizzotto-bitrocketdev)
-[Gist GitHub](https://gist.github.com/gabrielepolizzotto-bitrocketdev)
+👉🏻 [Profilo GitHub](https://github.com/gabrielepolizzotto-bitrocketdev)
+👉🏻 [Gist GitHub](https://gist.github.com/gabrielepolizzotto-bitrocketdev)
