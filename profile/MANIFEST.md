@@ -34,9 +34,12 @@ Nei momenti di difficoltà potrai sempre contare sull’aiuto di qualcuno ma, im
 
 Un problema va prima di tutto risolto. Non lamentarti se c’è qualcosa che non va ma, proponi soluzioni per risolvere il problema.
 
+---
+
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
 - 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
 - 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
