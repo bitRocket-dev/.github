@@ -40,9 +40,12 @@ _in aggiornamento_
 
 La Società ha inoltre lavorato per aziende quali **Enel, Vodafone, Eurobet, Malossi, Caterpillar, Iungo, DoveVivo e Luxottica**
 
+---
+
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
 - 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
 - 🤓 [Il Manifesto del RocketDev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
+- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)

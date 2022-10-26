@@ -83,3 +83,4 @@ Adottiamo internamente un approccio **smart** pianificando ogni 1-2 settimane il
 - 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
 - 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
 - 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
+- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
