@@ -12,45 +12,35 @@ Appassionato di videogame, silenzioso e con grande dedizione al lavoro. Dopo il 
 
 ## 👾 Esperienze principali
 
-**PagoPa** 4 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">PagoPa</span> <span style="font-size:11px">4 mesi</p></td><td rowspan="2">Sviluppo componenti in React Native e refactoring della UI in base alle specifiche fornite. In particolar modo mi sono occupo del miglioramento dell’accessibilità utente.</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
-**ReactJS e React Native Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Hype</span> <span style="font-size:11px">10 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux con particolare attenzione al flusso di onboarding, apertura conto e creazione carte. In particolar modo mi sono occupato dello sviluppo e validazione dei form e dell’architettura del design system.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer </td></tr>
+</table>
 
-Sviluppo componenti in React Native e refactoring della UI in base alle specifiche fornite.
-In particolar modo mi sono occupo del miglioramento dell’accessibilità utente.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Borsa Italiana</span> <span style="font-size:11px">11 mesi</span></p></td><td rowspan="2"> Sviluppo architettura, gestione e supervisione del team di lavoro Front End durante lo sviluppo di un’applicazione per il trading bancario, basata in ReactJS e Redux.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Lead/Architect</td></tr>
+</table>
 
----
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Crédit Agricole Italia</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Analisi e miglioramento delle performance dell’applicazione mobile. In particolar modo mi sono occupato di analizzare la codebase, fornendo linee guida al team di sviluppo, e riscrivendo la codebase in base alle best practices fornite.</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
-**Hype** 10 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux con particolare attenzione al flusso di onboarding, apertura conto e creazione carte. In particolar modo mi sono occupato dello sviluppo e validazione dei form e dell’architettura del design system.
-
----
-
-**Borsa Italiana** 11 mesi
-
-**Front End ReactJS Lead/Architect**
-
-Sviluppo architettura, gestione e supervisione del team di lavoro Front End durante lo
-sviluppo di un’applicazione per il trading bancario, basata in ReactJS e Redux.
-
----
-
-**Crédit Agricole Italia** 6 mesi
-
-**ReactJS e React Native Developer**
-
-Analisi e miglioramento delle performance dell’applicazione mobile. In particolar modo mi sono occupato di analizzare la codebase, fornendo linee guida al team di sviluppo, e riscrivendo la codebase in base alle best practices fornite.
-
----
-
-**Unicredit** 6 mesi
-
-**Javascript e ReactJS Developer**
-
-Conversione di un gestionale interno da Javascript a ReactJS. In particolar modo mi sono occupato dello sviluppo dell’architettura e della definizione delle linee guida.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Unicredit</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Conversione di un gestionale interno da Javascript a ReactJS. In particolar modo mi sono occupato dello sviluppo dell’architettura e della definizione delle linee guida.</td></tr>
+  <tr><td style="font-size:10px">Javascript e ReactJS Developer</td></tr>
+</table>
 
 ---
 
