@@ -61,7 +61,7 @@ Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati 
 
 #### 👨🏻‍💻 Il nostro codice
 
-`Unicredit` | `Illimity Bank` | `Crédit Agricole` | `PagoPA` | `Borsa Italiana` | `Hype` | `Banca Sella` | `Banca Intesa` | `Banca d'Italia` | `Enel` | `Vodafone` | `Eurobet` | `Luxottica`
+<img src="/assets/clients/unicredit_logo.png" width=100px alt='Unicredit' title='Unicredit'> | <img src="/assets/clients/illimiti_logo.png" width=100px alt='Illimity Bank' title='Illimity Bank'> | <img src="/assets/clients/créditAgricole_logo.png" width=100px alt='Crédit Agricole' title='Crédit Agricole'> | <img src="/assets/clients/pagopa_logo.png" width=100px alt='PagoPA' title='PagoPA'> | <img src="/assets/clients/borsaitaliana_logo.png" width=100px alt='Borsa Italiana' title='Borsa Italiana'> | <img src="/assets/clients/hype_logo.png" width=100px alt='Hype' title='Hype'> | <img src="/assets/clients/bancasella_logo.png" width=100px alt='Banca Sella' title='Banca Sella'> | <img src="/assets/clients/bancaintesa_logo.png" width=100px alt='Banca Intesa' title='Banca Intesa'> | <img src="/assets/clients/bancaintesa_logo.png" width=100px alt='Banca dItalia' title='Banca dItalia'> | <img src="/assets/clients/enel_logo.png" width=100px alt='Enel' title='Enel'> | <img src="/assets/clients/vodafone_logo.png" width=100px alt='Vodafone' title='Vodafone'> | <img src="/assets/clients/eurobet_logo.png" width=100px alt='Eurobet' title='Eurobet'>` | <img src="/assets/clients/luxottica_logo.png" width=100px alt='Luxottica' title='Luxottica'>
 
 # 🧑🏽‍🚀 La nostra missione
 
