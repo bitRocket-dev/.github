@@ -59,7 +59,5 @@ Appassionato di videogame, silenzioso e con grande dedizione al lavoro. Dopo il 
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- 👨🏻‍💻 [Modalità d'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
 - 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
