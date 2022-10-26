@@ -4,7 +4,7 @@
 
 **bitRocket.dev s.r.l.** è una startup innovativa con sede a Palermo, costituita nel Dicembre 2020 dal Socio e Amministratore Unico [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev).
 
-Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati in **NodeJS**, **ReactJS** e **React** **Native**. In quanto realtà innovativa, abbiamo una forte propensione in progetti di _Ricerca e Sviluppo_ in particolar modo in ambito **[Blockchain](https://github.com/bitRocket-dev/.github/blob/main/pages/BLOCKCHAIN.md)**, **[Gaming](https://github.com/bitRocket-dev/.github/blob/main/pages/BLOCKCHAIN.md)** e **[Metaverso](https://github.com/bitRocket-dev/.github/blob/main/pages/METAVERSE.md)**.
+Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati in **NodeJS**, **ReactJS** e **React** **Native**. In quanto realtà innovativa, abbiamo una forte propensione in progetti di _Ricerca e Sviluppo_ in particolar modo in ambito **[Blockchain](https://github.com/bitRocket-dev/.github/blob/main/pages/BLOCKCHAIN.md)**, **[Metaverso](https://github.com/bitRocket-dev/.github/blob/main/pages/METAVERSE.md)** e **Gaming** .
 
 #### 👾 Superpowers
 

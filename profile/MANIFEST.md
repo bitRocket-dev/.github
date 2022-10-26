@@ -41,5 +41,5 @@ Un problema va prima di tutto risolto. Non lamentarti se c’è qualcosa che non
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 🕵🏻‍♂️ [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- 🕹 [Benefits](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
+- 💰 [Referral Fee](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
