@@ -14,27 +14,25 @@ Appassionato di programmazione sin dai tempi del liceo in cui ho appreso la prog
 
 ## 👾 Esperienze principali
 
-**Velasca** 6 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">Velasca</span> <span style="font-size:11px">6 mesi</p></td><td rowspan="2">Migrazione di un’applicazione Shopify a ReactJS e sviluppo componenti UI in base alle specifiche fornite utilizzando CSS e SASS.
+</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
-**ReactJS and React Native Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">RocketCMS</span> <span style="font-size:11px">9 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione aziende e utenti.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer </td></tr>
+</table>
 
-Migrazione di un’applicazione Shopify a ReactJS e sviluppo componenti UI in base alle specifiche fornite utilizzando CSS e SASS.
-
----
-
-**RocketCMS** 9 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione aziende e utenti.
-
----
-
-**ReactGenerator** 6 mesi
-
-**NodeJS and ReactJS Developer**
-
-Integrazione di utility generiche, custom hook e componenti UI in ReactJS basati sulle linee guida aziendali.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">ReactGenerator</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Integrazione di utility generiche, custom hook e componenti UI in ReactJS basati sulle linee guida aziendali.
+</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
 ---
 
