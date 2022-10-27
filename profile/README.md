@@ -1,6 +1,6 @@
 <a href="https://discord.gg/EhwCjs5r5u" target="_blank">
 <img src="/assets/images/join-discord.png" width=200px alt='Join Discord Server' title='Join Discord Server'>
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.instagram.com/bitrocket.dev/' target="_blank">
 <img style='margin-left: 30px' src="/assets/images/follow-us-on-instagram.png" height=54px alt='Follow Us On Instagram' title='Follow Us On Instagram'>
 </a>
