@@ -49,17 +49,30 @@ Fino ad oggi la formazione si è tenuta _off-line_ in sede. **Attualmente stiamo
 
 In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
 
-| <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|          [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD)          |         [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md)         |         [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md)         |         [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md)          |        [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md)         |
-|                                       React JS/Native Developer                                       |                                        React JS/Native Developer                                         |                                          React JS/Native Developer                                          |                                         React JS/Native Developer                                         |                                          React JS/Native Developer                                          |
+| <img src="https://github.com/riccardogenova-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
+| :---: | :---: | :---: | :---: | :---: |
+| [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev) | [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD) | [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md) | [Roberto P .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md) | [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md) |
+| Founder                  | Team Lead | Team Lead |  Team Lead |  Team Lead |
+|  *50% business 50% coding* |  -        |  *Non mi piacciono le code, ma adoro il < code />*        |   -       |   -  |
+                                 
 
 <div style="margin-bottom: 68px"></div>
 
-| <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/marioisca-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertolaporta-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-|         [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md)         |          [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md)           |          [Roberto L .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md)           |           [Roberto P .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md)            |        [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md)         |
-|                                         React JS/Native Developer                                         |                                NodeJS and React JS/Native Developer                                |                                   Node JS and React Native Developer                                    |                                         React JS/Native Developer                                         |                                        React JS/Native Developer                                         |
+| <img src="https://github.com/marioisca-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertolaporta-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
+| :---: | :---: | :---: | :---: | :---: |
+| [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md) | [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md) |  [Roberto L .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md) | [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md) | [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md) |
+|        Developer         | Developer | Developer | Developer | Developer|
+|  *Time === 9:00-18:00 ? "Mario Work" : "Mario Work" Operatore TerMario* 
+
+<div style="margin-bottom: 68px"></div>
+
+
+
+| <img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertovalenza-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/danielemaione-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
+| :---: | :---: | :---: |
+| [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md) | [Roberto Valenza]() | [Daniele Maione]()
+| Developer | Developer | Developer |
+| - | - | - |
 
 ---
 
