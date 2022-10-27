@@ -14,35 +14,29 @@ Grande appassionato di programmazione con forte propensione all’apprendimento 
 
 ## 👾 Esperienze principali
 
-**Banca Intesa** 4 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">Banca Intesa</span> <span style="font-size:11px">4 mesi</p></td><td rowspan="2"> Sviluppo componenti ReactJS di un gestionale interno. In particolar modo mi sono occupato dello sviluppo della business logic con Redux e flussi di chiamate REST..</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
-**NodeJS and ReactJS Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Iungo</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS per la visualizzazione di grafici e test end-to-end. In particolar modo mi sono occupato di componenti UI e virtualizzazione di un Back End con persistenza dati..</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
-Sviluppo componenti ReactJS di un gestionale interno. In particolar modo mi sono occupato dello sviluppo della business logic con Redux e flussi di chiamate REST.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">RocketDrive</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Sviluppo di un’applicazione ReactJS per l’archiviazione di documenti. In particolar modo mi sono occupato dello sviluppo del database, delle API e della parte Front End integrando le API di Telegram.</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
----
-
-**Iungo** 4 mesi
-
-**NodeJS and ReactJS Developer**
-
-Sviluppo componenti ReactJS per la visualizzazione di grafici e test end-to-end. In particolar modo mi sono occupato di componenti UI e virtualizzazione di un Back End con persistenza dati.
-
----
-
-**RocketDrive** 6 mesi
-
-**NodeJS and ReactJS Developer**
-
-Sviluppo di un’applicazione ReactJS per l’archiviazione di documenti. In particolar modo mi sono occupato dello sviluppo del database, delle API e della parte Front End integrando le API di Telegram.
-
----
-
-**RocketCMS** 9 mesi
-
-**NodeJS and ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione strumenti e report.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">9 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione strumenti e report.</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
 ---
 
