@@ -14,19 +14,17 @@ Appassionato di videogame, ho scoperto la programmazione subito dopo il diploma 
 
 ## 👾 Esperienze principali
 
-**ROCKET CMS** 12 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">12 mesi</p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione ordini, utenti e permessi.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione ordini, utenti e permessi.
-
----
-
-**Banktastic**
-
-**ReactJS e React Native Developer**
-
-Sviluppo componenti ReactJS e React Native e flussi Redux. Integrazione query e mutation GraphQL e definizione di custom hook per la gestione del flusso dati.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Banktastic</span> <span style="font-size:11px">9 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e React Native e flussi Redux. Integrazione query e mutation GraphQL e definizione di custom hook per la gestione del flusso dati.</td></tr>
+  <tr><td style="font-size:10px">React JS/React Native Developer</td></tr>
+</table>
 
 ---
 
