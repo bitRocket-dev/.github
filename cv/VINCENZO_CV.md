@@ -14,55 +14,41 @@ Ottima propensione al lavoro in team. Dopo aver completato il percorso di laurea
 
 ## 👾 Esperienze principali
 
-**DoveVivo** 8 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">DoveVivo</span> <span style="font-size:11px">8 mesi</p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux di un applicazione SSR sviluppata con Gatsby, con particolare attenzione al SEO.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer/td></tr>
+</table>
 
-**Front End ReactJS Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">CAV</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux, bug fixing su UI in base alle specifiche identificate su Figma.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer </td></tr>
+</table>
 
-Sviluppo componenti ReactJS e flussi Redux di un applicazione SSR
-sviluppata con Gatsby, con particolare attenzione al SEO.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">ISDC</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Sviluppo processo di onboarding di nuovi clienti all’interno dello store con particolare attenzione alla gestione del form.</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
----
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Giotto</span> <span style="font-size:11px">6 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux (CRUD) di un’applicazione per l’analisi dati e sviluppo e validazione form.</td></tr>
+  <tr><td style="font-size:10px">Front End React JS/Native Developer</td></tr>
+</table>
 
-**CAV** 4 mesi
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione strumenti e report.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux, bug fixing su UI in
-base alle specifiche identificate su Figma.
-
----
-
-**ISDC** 6 mesi
-
-**ReactJS and React Native Developer**
-
-Sviluppo processo di onboarding di nuovi clienti all’interno dello
-store con particolare attenzione alla gestione del form.
-
----
-
-**Giotto** 6 mesi
-
-**Front End React JS/Native Developer**
-
-Sviluppo componenti ReactJS e flussi Redux (CRUD) di
-un’applicazione per l’analisi dati e sviluppo e validazione form.
-
----
-
-**RocketCMS** 4 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux utilizzando EmotionJS. In particolar modo mi sono occupato dello sviluppo della sezione strumenti e report.
-
----
-
-**ReactGenerator** 4 mesi
-
-**NodeJS and ReactJS Developer**
-
-Sviluppo di un pacchetto NPM per la generazione di componenti e custom hooks in ReactJS basati sulle linee guida aziendali.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">ReactGenerator</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo di un pacchetto NPM per la generazione di componenti e custom hooks in ReactJS basati sulle linee guida aziendali.</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
 ---
 
@@ -79,7 +65,5 @@ Sviluppo di un pacchetto NPM per la generazione di componenti e custom hooks in 
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- 👨🏻‍💻 [Modalità di Ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
 - 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)

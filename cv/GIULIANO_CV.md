@@ -14,19 +14,17 @@ Appassionato di videogame, silenzioso e con grande dedizione al lavoro. La mia e
 
 ## 👾 Esperienze principali
 
-**Rocket Cms** 12 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">12 mesi</p></td><td rowspan="2"> Sviluppo componenti ReactJS e EmotionJS e progettazione dei flussi Redux. In particolar modo mi sono occupato dello sviluppo della sezione fatturato e gestione clienti.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e EmotionJS e progettazione dei flussi Redux. In particolar modo mi sono occupato dello sviluppo della sezione fatturato e gestione clienti.
-
----
-
-**Rocket Generator** 9 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti UI in ReactJS e di custom hooks. In particolar modo ho sviluppato un boilerplate con CRA integrando le linee guida aziendali.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Generator</span> <span style="font-size:11px">9 mesi</span></p></td><td rowspan="2"> Sviluppo componenti UI in ReactJS e di custom hooks. In particolar modo ho sviluppato un boilerplate con CRA integrando le linee guida aziendali.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
 ---
 
@@ -45,7 +43,5 @@ Sviluppo componenti UI in ReactJS e di custom hooks. In particolar modo ho svilu
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
 - 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- 👨🏻‍💻 [Modalità di Ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
 - 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
