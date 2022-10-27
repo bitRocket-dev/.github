@@ -14,35 +14,29 @@ Appassionato di Design e con estrema attitudine al lavoro in team. Subito dopo e
 
 ## 👾 Esperienze principali
 
-**Luxottica** 8 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">Luxottica</span> <span style="font-size:11px">8 mesi</p></td><td rowspan="2">Sviluppo componenti ReactJS in base alle specifiche UI fornite e flussi Redux (CRUD) di simulatore e-commerce per provare gli oggetti acquistati.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
-**Front End ReactJS Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Philip Morris</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e architettura di un’applicazione per l’analisi dati. In particolar modo mi sono occupato della definizione del flusso dati con il team Back End e dello sviluppo dell’ambiente di test.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Lead/Architect</td></tr>
+</table>
 
-Sviluppo componenti ReactJS in base alle specifiche UI fornite e flussi Redux (CRUD) di simulatore e-commerce per provare gli oggetti acquistati.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Malossi</span> <span style="font-size:11px">3 mesi</span></p></td><td rowspan="2"> Aggiornamento all’ultima versione di un’applicazione React Native (+ Expo) che utilizzava librerie deprecate, bug fixing e refactoring dell’architettura dei componenti.</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
----
-
-**Philip Morris** 4 mesi
-
-**Front End ReactJS Lead/Architect**
-
-Sviluppo componenti ReactJS e architettura di un’applicazione per l’analisi dati. In particolar modo mi sono occupato della definizione del flusso dati con il team Back End e dello sviluppo dell’ambiente di test.
-
----
-
-**Malossi** 3 mesi
-
-**ReactJS e React Native Developer**
-
-Aggiornamento all’ultima versione di un’applicazione React Native (+ Expo) che utilizzava librerie deprecate, bug fixing e refactoring dell’architettura dei componenti.
-
----
-
-**STSI** 4 mesi
-
-**ReactJS e React Native Developer**
-
-Sviluppo componenti ReactJS e dei flussi Redux. In particolar modo mi sono occupato dello sviluppo di sistemi di autenticazione (Facebook, Google etc...) e di validazione form.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">STSI</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e dei flussi Redux. In particolar modo mi sono occupato dello sviluppo di sistemi di autenticazione (Facebook, Google etc...) e di validazione form.</td></tr>
+  <tr><td style="font-size:10px">React JS/Native Developer</td></tr>
+</table>
 
 ---
 
