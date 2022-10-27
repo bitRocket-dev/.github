@@ -21,17 +21,17 @@ Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati 
 
 # 🧑🏽‍🚀 La nostra missione
 
-Forniamo alle aziende una team di sviluppo in modalità _full remote,_ capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**, garantendo al team una **qualità della vita lavorativa unica**.
+Forniamo alle aziende una team di sviluppo in modalità _full remote,_ capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**, garantendo al team una **qualità della vita lavorativa unica** e al Cliente una **codice stabile, performante e documentato**.
 
-🤓 [Leggi il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
+[Perché è importante il #qualitycode](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
 
 # 👔 Consulenza
 
 **La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano.
 
-**Per noi lavorare equivale a coltivare una passione**, per questo abbiamo a cuore ogni progetto che sviluppiamo, offrendo una soluzione **stabile**, **performante** e **documentata**
+**Per noi lavorare equivale a coltivare una passione**, per questo abbiamo a cuore ogni progetto che sviluppiamo.
 
-🕵🏻‍♂️ [Approfondisci le modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
+[Approfondisci le modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
 
 # 🎓 School
 
@@ -41,13 +41,15 @@ I corsi sono tenuti dal fondatore della società, **[Riccardo Genova](https://gi
 
 Fino ad oggi la formazione si è tenuta _off-line_ in sede. **Attualmente stiamo lavorando allo sviluppo di un di gioco all’interno Roblox**, che ha l'obiettivo di creare un processo scalabile e ripetibile che formi nuovi talenti, in grado di far fronte ad ogni genere di casistica di sviluppo e di adattarsi ai processi di lavoro da remoto.
 
-🌎 [Guarda bitRocket.land](https://github.com/bitRocket-dev/.github/blob/main/projects/BITROCKET_LAND.md)
+[Cosa è bitRocket.land](https://github.com/bitRocket-dev/.github/blob/main/projects/BITROCKET_LAND.md)
 
 ---
 
 # 🚀 We are fu\*\*\*\* rocket
 
 In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
+
+[Leggi il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
 
 | <img src="https://github.com/riccardogenova-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
@@ -71,10 +73,3 @@ In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per que
 |         [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md)          |                                           [Roberto Valenza]()                                           |                                           [Daniele Maione]()                                           |
 |                                                 Developer                                                 |                                                Developer                                                |                                               Developer                                                |
 |                                                     -                                                     |                                                    -                                                    |                                                   -                                                    |
-
----
-
-##### Continua a leggere
-
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
