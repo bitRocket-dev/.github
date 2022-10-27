@@ -1,115 +1,75 @@
-[<img src="/assets/images/join-discord.png" width=200px alt='Join Discord Server' title='Join Discord Server'>](https://discord.gg/EhwCjs5r5u)
+# 🤓 Andrea
 
-# 👊🏾 Hey man!
+##### 25 anni, +4 anni di esperienza
 
-**bitRocket.dev s.r.l.** è una startup innovativa con sede a Palermo, costituita nel Dicembre 2020 dal Socio e Amministratore Unico [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev).
+## 👋🏻 Presentazione
 
-Ci occupiamo di sviluppare e manutenere **Applicativi Web e Mobile** sviluppati in **NodeJS**, **ReactJS** e **React** **Native**. In quanto realtà innovativa, abbiamo una forte propensione in progetti di _Ricerca e Sviluppo_ in particolar modo in ambito **[Blockchain](https://github.com/bitRocket-dev/.github/blob/main/pages/BLOCKCHAIN.md)**, **[Metaverso](https://github.com/bitRocket-dev/.github/blob/main/pages/METAVERSE.md)** e **Gaming** .
+Appassionato di videogame, silenzioso e con grande dedizione al lavoro. Dopo il liceo ho studiato Javascript da auto-didatta acquistando alcuni corsi su Udemy e seguendo un corso di formazione su FreeCodeCamp di circa 6 mesi, successivamente ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**. Le diverse esperienze nel settore fintech e i diversi stack utilizzati mi hanno permesso di acquisire un’ampia visione sullo sviluppo Web/Mobile affrontando anche temi riguardanti la Blockchain e lo sviluppo di smart contract.
 
-#### 👾 Superpowers
+## 🚀 Competenze
 
-<img src="/assets/stack/apollographql.svg" width=25px alt='Apollo Graph' title='Apollo Graph'>
-<img src="/assets/stack/chartjs.png" width=25px alt='ChartJS' title='ChartJS'>
-<img src="/assets/stack/commitizen.png" width=25px alt='Commitizen' title='Commitizen'>
-<img src="/assets/stack/commitlint.svg" width=25px alt='Commitlint' title='Commitlint'>
-<img src="/assets/stack/css.svg" width=25px alt='Css' title='Css'>
-<img src="/assets/stack/cypress.svg" width=25px alt='Cypress' title='Cypress'>
-<img src="/assets/stack/emotionjs.png" width=25px alt='Emotionjs' title='Emotionjs'>
-<img src="/assets/stack/eslint.svg" width=25px alt='Eslint' title='Eslint'>
-<img src="/assets/stack/ethers.png" width=25px alt='Ethers' title='Ethers'>
-<img src="/assets/stack/gatsby.svg" width=25px alt='Gatsby' title='Gatsby'>
-<img src="/assets/stack/git.png" width=25px alt='Git' title='Git'>
-<img src="/assets/stack/gitlab.webp" width=25px alt='Gitlab' title='Gitlab'>
-<img src="/assets/stack/gitpod.png" width=25px alt='Gitpod' title='Gitpod'>
-<img src="/assets/stack/graphql.svg" width=25px alt='Graphql' title='Graphql'>
-<img src="/assets/stack/hardhat.png" width=25px alt='Hardhat' title='Hardhat'>
-<img src="/assets/stack/highcharts.svg" width=25px alt='Highcharts' title='Highcharts'>
-<img src="/assets/stack/html.svg" width=25px alt='Html' title='Html'>
-<img src="/assets/stack/husky.svg" width=25px alt='Husky' title='Husky'>
-<img src="/assets/stack/i18next.png" width=25px alt='I18next' title='I18next'>
-<img src="/assets/stack/javascript.svg" width=25px alt='Javascript' title='Javascript'>
-<img src="/assets/stack/jest.svg" width=25px alt='Jest' title='Jest'>
-<img src="/assets/stack/lerna.png" width=25px alt='Lerna' title='Lerna'>
-<img src="/assets/stack/liquid.png" width=25px alt='Liquid' title='Liquid'>
-<img src="/assets/stack/material-ui.png" width=25px alt='Material ui' title='Material ui'>
-<img src="/assets/stack/mongodb.svg" width=25px alt='Mongodb' title='Mongodb'>
-<img src="/assets/stack/mswjs.png" width=25px alt='Mswjs' title='Mswjs'>
-<img src="/assets/stack/nativebase.jpeg" width=25px alt='Nativebase' title='Nativebase'>
-<img src="/assets/stack/nestjs.svg" width=25px alt='Nestjs' title='Nestjs'>
-<img src="/assets/stack/nodejs.svg" width=25px alt='Nodejs' title='Nodejs'>
-<img src="/assets/stack/nx.png" width=25px alt='Nx' title='Nx'>
-<img src="/assets/stack/openzeppelin.png" width=25px alt='Openzeppelin' title='Openzeppelin'>
-<img src="/assets/stack/prettier.svg" width=25px alt='Prettier' title='Prettier'>
-<img src="/assets/stack/prismajs.png" width=25px alt='Prismajs' title='Prismajs'>
-<img src="/assets/stack/ramdajs.png" width=25px alt='Ramdajs' title='Ramdajs'>
-<img src="/assets/stack/react-query.svg" width=25px alt='React query' title='React query'>
-<img src="/assets/stack/react-testing-library.png" width=25px alt='React testing library' title='React testing library'>
-<img src="/assets/stack/reactjs.svg" width=25px alt='Reactjs' title='Reactjs'>
-<img src="/assets/stack/reactnative.svg" width=25px alt='Reactnative' title='Reactnative'>
-<img src="/assets/stack/recoil.png" width=25px alt='Recoil' title='Recoil'>
-<img src="/assets/stack/redux-form.jpeg" width=25px alt='Redux form' title='Redux form'>
-<img src="/assets/stack/redux.svg" width=25px alt='Redux' title='Redux'>
-<img src="/assets/stack/roblox.webp" width=25px alt='Roblox' title='Roblox'>
-<img src="/assets/stack/rxjs.svg" width=25px alt='Rxjs' title='Rxjs'>
-<img src="/assets/stack/shopify.png" width=25px alt='Shopify' title='Shopify'>
-<img src="/assets/stack/socket-io.svg" width=25px alt='Socket io' title='Socket io'>
-<img src="/assets/stack/solidity.svg" width=25px alt='Solidity' title='Solidity'>
-<img src="/assets/stack/storybook.svg" width=25px alt='Storybook' title='Storybook'>
-<img src="/assets/stack/styled-components.png" width=25px alt='Styled components' title='Styled-components'>
-<img src="/assets/stack/threejs.png" width=25px alt='Threejs' title='Threejs'>
-<img src="/assets/stack/typescript.svg" width=25px alt='Typescript' title='Typescript'>
+`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `NodeJS` | `ReactJS` | `ReactNative` | `Jest` | `Redux` | `Redux-toolkit` | `Redux-Saga` | `Styled-components` | `EmotionJS` | `Formik` | `React Hook Form` | `MaterialUI` | `Native Base` | `Prettier` | `ESLint` | ` Commitlint` | `Storybook` | `Cypress` | `Socket.io` | `WebRTC ` | `Solidity Git`
 
-#### 👨🏻‍💻 Il nostro codice
+## 👾 Esperienze principali
 
-`Unicredit` | `Illimity Bank` | `Crédit Agricole` | `PagoPA` | `Borsa Italiana` | `Hype` | `Banca Sella` | `Banca Intesa` | `Banca d'Italia` | `Enel` | `Vodafone` | `Eurobet` | `Luxottica`
+**PagoPa** 4 mesi
 
-# 🧑🏽‍🚀 La nostra missione
+**ReactJS e React Native Developer**
 
-Forniamo alle aziende una team di sviluppo in modalità _full remote,_ capace di **sviluppare progetti dal forte impatto innovativo e tecnologico**, garantendo al team una **qualità della vita lavorativa unica**.
-
-🤓 [Leggi il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-
-# 👔 Consulenza
-
-**La nostra esperienza ci rende una delle realtà italiane più richieste nel settore fintech** e vantiamo collaborazioni con alcune tra le migliori realtà del panorama italiano.
-
-**Per noi lavorare equivale a coltivare una passione**, per questo abbiamo a cuore ogni progetto che sviluppiamo, offrendo una soluzione **stabile**, **performante** e **documentata**
-
-🕵🏻‍♂️ [Approfondisci le modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-
-# 🎓 School
-
-Attraverso un **percorso di formazione interna di 500 ore**, formiamo giovani talenti da assumere in azienda.
-
-I corsi sono tenuti dal fondatore della società, **[Riccardo Genova](https://github.com/riccardogenova-bitrocketdev)**, Sviluppatore e Trainer esperto, che si è occupato per anni di formare consulenti _Accenture_, _Avanade_ e _Capgemini_.
-
-Fino ad oggi la formazione si è tenuta _off-line_ in sede. **Attualmente stiamo lavorando allo sviluppo di un di gioco all’interno Roblox**, che ha l'obiettivo di creare un processo scalabile e ripetibile che formi nuovi talenti, in grado di far fronte ad ogni genere di casistica di sviluppo e di adattarsi ai processi di lavoro da remoto.
-
-🌎 [Guarda bitRocket.land](https://github.com/bitRocket-dev/.github/blob/main/projects/BITROCKET_LAND.md)
+Sviluppo componenti in React Native e refactoring della UI in base alle specifiche fornite.
+In particolar modo mi sono occupo del miglioramento dell’accessibilità utente.
 
 ---
 
-# 🚀 We are fu\*\*\*\* rocket
+**Hype** 10 mesi
 
-In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
+**Front End ReactJS Developer**
 
-| <img src="https://github.com/riccardogenova-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|                                           [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev)                                           |          [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD)          |         [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md)         |         [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md)         |         [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md)          |
-|                                                 Founder                                                 |                                               Team Lead                                               |                                                Developer                                                 |                                                  Team Lead                                                  |                                                 Developer                                                 |
-| 50% business 50% coding | - | - | - | - |
+Sviluppo componenti ReactJS e flussi Redux con particolare attenzione al flusso di onboarding, apertura conto e creazione carte. In particolar modo mi sono occupato dello sviluppo e validazione dei form e dell’architettura del design system.
 
-<div style="margin-bottom: 68px"></div>
+---
 
-| <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/marioisca-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertolaporta-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md)                 | [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md)                    | [Roberto L .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md)                    | [Roberto P .](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md)                      | [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md)                | [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md)                |
-| Developer                                                                                                 | Developer                                                                                          | Developer                                                                                               | Team Lead                                                                                                 | Team Lead                                                                                                | Developer                                                                                                   |
-| - | - | - | - | - | - |
+**Borsa Italiana** 11 mesi
+
+**Front End ReactJS Lead/Architect**
+
+Sviluppo architettura, gestione e supervisione del team di lavoro Front End durante lo
+sviluppo di un’applicazione per il trading bancario, basata in ReactJS e Redux.
+
+---
+
+**Crédit Agricole Italia** 6 mesi
+
+**ReactJS e React Native Developer**
+
+Analisi e miglioramento delle performance dell’applicazione mobile. In particolar modo mi sono occupato di analizzare la codebase, fornendo linee guida al team di sviluppo, e riscrivendo la codebase in base alle best practices fornite.
+
+---
+
+**Unicredit** 6 mesi
+
+**Javascript e ReactJS Developer**
+
+Conversione di un gestionale interno da Javascript a ReactJS. In particolar modo mi sono occupato dello sviluppo dell’architettura e della definizione delle linee guida.
+
+---
+
+👉🏻 [Profilo GitHub](https://github.com/andreafavaro-bitrocketdev)
+👉🏻 [Profilo Gist](https://gist.github.com/andreafavaro-bitrocketdev)
+
+---
+
+# ::: ATTENZIONE :::
+
+**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
 
 ---
 
 ##### Continua a leggere
 
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
+- 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
+- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/profile/WHY_BITROCKET-DEV.md)
+- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/profile/ABOUT.md)
 - 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
+- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/profile/MANIFEST.md)
+- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
