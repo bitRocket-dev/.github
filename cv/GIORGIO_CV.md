@@ -42,4 +42,4 @@ Appassionato di sistemi hardware (Raspberry, Arduino etc...), con grande dedizio
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 👨🏻‍💻 [Modalità di'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
+- 👨🏻‍💻 [Modalità d'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
