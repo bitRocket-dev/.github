@@ -1,6 +1,4 @@
-# 💪🏻 Perché scegliere **bitRocket.dev**
-
-La società sostiene il **quality code, made smart.** Di seguito i problemi più diffusi nel mondo della sviluppo software.
+# 😱 Quando l'approccio è "basta che funzioni"
 
 ### ✍🏻 **Errori di scrittura.**
 
@@ -15,5 +13,4 @@ Una codebase di scarsa qualità che risulta complessa da documentare è difficil
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 👨🏻‍💻 [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
+- 🤝 [Modalità di ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
