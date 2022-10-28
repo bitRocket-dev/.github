@@ -74,7 +74,3 @@ In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per que
 
 ---
 
-##### Continua a leggere
-
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
