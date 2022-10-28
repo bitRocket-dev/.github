@@ -17,7 +17,7 @@ scrittura del codice.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/pagopa_logo.png" height=100px alt='PagoPA' title='PagoPA'>
 
-Per PagoPA ci siamo occupati di riscrivere alcune sezioni della piattaforma in base alle nuove specifiche di UI e di migliorare il livello di  accessibilità dell'applicazione mobile. Inoltre abbiamo sviluppato un sistema di chat bot per il supporto all'utente.
+Per PagoPA ci siamo occupati di riscrivere alcune sezioni della piattaforma in base alle nuove specifiche di UI e di migliorare il livello di accessibilità dell'applicazione mobile. Inoltre abbiamo sviluppato un sistema di chat bot per il supporto all'utente.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/borsaitaliana_logo.png" height=100px alt='Borsa Italiana' title='Borsa Italiana'>
 
@@ -27,15 +27,31 @@ Per Borsa Italiana abbiamo definito l'intera architettura di alcuni applicativi 
 
 Per Hype abbiamo sviluppato nuove funzionalità relative al flusso di creazione di un nuovo conto corrente e sviluppato un sistema di design system condiviso con diversi progetti interni.
 
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaditalia_logo.png" height=85px alt='Banca dItalia' title='Banca dItalia'>
+
+Per Banca d'Italia abbiamo sviluppato una piattaforma per l'acquisto e vendita di titoli azionari, definendo UI e l'intera architettura Front End.
+
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancasella_logo.png" height=100px  alt='Banca Sella' title='Banca Sella'>
 
 in aggiornamento.
 
-<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaditalia_logo.png" height=85px alt='Banca dItalia' title='Banca dItalia'>
-
-Per Banca d'Italia abbiamo sviluppato una piattaforma per l'acquisto e vendita di titoli azionari, definendo UI e l'intera architettura Front End. 
-
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaintesa_logo.png" height=60px alt='Banca Intesa' title='Banca Intesa'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/vodafone_logo.png" height=60px alt='vodafone' title='vodafone'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/luxottica_logo.png" height=60px alt='luxottica' title='luxottica'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/enel_logo.png" height=60px alt='enel' title='enel'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/eurobet_logo.png" height=60px alt='eurobet' title='eurobet'>
 
 in aggiornamento.
 
