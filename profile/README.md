@@ -3,6 +3,9 @@
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.instagram.com/bitrocket.dev/' target="_blank">
 <img style='margin-left: 30px' src="/assets/images/follow-us-on-instagram.png" height=54px alt='Follow Us On Instagram' title='Follow Us On Instagram'>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://it.linkedin.com/company/bitrocketdev" target="_blank">
+<img src="/assets/images/linkedin-follow-button-removebg-preview.png" width=200px height=60x alt="Follow Us On Linkedin" title="Follow Us On Linkedin"> 
 </a>
 
 # 👊🏾 Hey man!
