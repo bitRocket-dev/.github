@@ -61,6 +61,4 @@ sviluppata con Gatsby, con particolare attenzione al SEO.</td></tr>
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Modalità di Ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
+- 👨🏻‍💻 [Modalità d'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
