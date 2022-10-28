@@ -45,6 +45,13 @@ Fino ad oggi la formazione si è tenuta _off-line_ in sede. **Attualmente stiamo
 
 ---
 
+# 🤓 Codice Open Source
+
+Il nostro Team contribuisce allo sviluppo di numerosi progetti _Open Source_ .
+[Clicca qui](https://github.com/bitRocket-dev/.github/blob/main/pages/OPEN_SOURCE.md) per **scaricare il codice open source pubblicato dai nostri talenti.**
+
+---
+
 # 🚀 We are fu\*\*\*\* rocket
 
 In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
