@@ -67,23 +67,236 @@ Il nostro Team contribuisce allo sviluppo di numerosi progetti _Open Source_ .
 
 In _bitRocket.dev_ crediamo che non basta essere dei bravi sviluppatori, per questo reclutiamo talenti **dinamici**, **creativi** e **proattivi** con estrema propensione al gioco di squadra.
 
-| <img src="https://github.com/riccardogenova-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/andreafavaro-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertoportaluri-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-|                    [Riccardo Genova](https://github.com/riccardogenova-bitrocketdev)                    |          [Andrea Favarò](https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD)          |         [Gabriele Polizzotto](https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md)         |        [Roberto Portaluri](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md)         |        [Vincenzo De Sisto](https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md)         |
-|                                                 Founder                                                 |                                               Tech Lead                                               |                                                  Team Lead                                                  |                                                 Team Lead                                                 |                                                Team Lead                                                 |
 
-<div style="margin-bottom: 68px"></div>
-
-| <img src="https://github.com/marioisca-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertolaporta-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|          [Mario Isca](https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md)           |         [Giuliano Randazzo](https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md)         |        [Roberto La Porta](https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md)        |         [Cristian Palermo](https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md)         |        [Giovanni Di Gregorio](https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md)         |
-|                                             Developer                                              |                                                 Developer                                                 |                                                Developer                                                |                                                Developer                                                 |                                                  Developer                                                  |
-
-<div style="margin-bottom: 68px"></div>
-
-| <img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/robertovalenza-bitrocketdev.png" width="50px" style="border-radius: 50px"> | <img src="https://github.com/danielemaione-bitrocketdev.png" width="50px" style="border-radius: 50px"> |
-| :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|         [Giorgio Sangiorgi](https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md)          |                                           [Roberto Valenza]()                                           |                                           [Daniele Maione]()                                           |
-|                                                 Developer                                                 |                                                 Trainee                                                 |                                                Trainee                                                 |
-
----
+  <table>
+  <tr>
+      <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/riccardogenova-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <br><img src="https://github.com/andreafavaro-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/gabrielepolizzotto-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <br><img src="https://github.com/robertoportaluri-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <br><img src="https://github.com/vincenzodesisto-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+  </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/riccardogenova-bitrocketdev">Riccardo Genova</a> <br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/ANDREA_CV.MD">Andrea Favarò</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/GABRIELE_CV.md">Gabriele Polizzotto</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_P_CV.md">Roberto Portaluri</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/VINCENZO_CV.md">Vincenzo De Sisto</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+  </tr>
+    <tr>
+    <td align="center">Founder</td>
+    <td align="center">Tech Lead</td>
+    <td align="center">Team Lead</td>
+    <td align="center">Team Lead</td>
+    <td align="center">Team Lead</td>
+  </tr>
+  </table>
+    <table>
+  <tr>
+      <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/marioisca-bitrocketdev.png" width="90px" style="border-radius: 90px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/giulianorandazzo-bitrocketdev.png" width="90px" style="border-radius: 90px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/robertolaporta-bitrocketdev.png" width="90px" style="border-radius: 90px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/cristianpalermo-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/giovannidigregorio-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/MARIO_CV.md">Mario Isca</a> <br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/GIULIANO_CV.md">Giuliano Randazzo</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/ROBERTO_L_CV.md">Roberto La Porta</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/CRISTIAN_CV.md">Cristian Palermo</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/GIOVANNI_CV.md">Giovanni Di Gregorio</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+  </tr>
+    <tr>
+    <td align="center">Developer</td>
+    <td align="center">Developer</td>
+    <td align="center">Developer</td>
+    <td align="center">Developer</td>
+    <td align="center">Developer</td>
+  </tr>
+  </table>
+    <table>
+  <tr>
+      <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <br><img src="https://github.com/giorgiosangiorgi-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+      <img src="https://github.com/robertovalenza-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+    <th align="center"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <br><img src="https://github.com/danielemaione-bitrocketdev.png" width="90px" style="border-radius: 50px"><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </th>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/bitRocket-dev/.github/blob/main/cv/GIORGIO_CV.md">Giorgio Sangiorgi</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      <td align="center"><a href="/">Roberto Valenza</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      <td align="center"><a href="/">Daniele Maione</a><br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+  </tr>
+    <tr>
+    <td align="center">Developer</td>
+    <td align="center">Trainee</td>
+    <td align="center">Trainee</td>
+  </tr>
+  </table>
