@@ -14,47 +14,36 @@ Appassionato di videogame, ho scoperto la mia attitudine alla programmazione nel
 
 ## 👾 Esperienze principali
 
-**DoveVivo** 6 mesi
+<table>
+  <tr> <td style="
+   column-width:280px"><p><span style="font-weight:bold">DoveVivo</span> <span style="font-size:11px">6 mesi</p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux di un applicazione SSR
+sviluppata con Gatsby, con particolare attenzione al SEO.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer/td></tr>
+</table>
 
-**Front End ReactJS Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">MDOTM</span> <span style="font-size:11px">3 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS per la visualizzazione di grafici, gestione flussi con Recoil e sviluppo e validazione form.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer </td></tr>
+</table>
 
-Sviluppo componenti ReactJS e flussi Redux di un applicazione SSR
-sviluppata con Gatsby, con particolare attenzione al SEO.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Helon</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux, con particolare attenzione alle animazioni sviluppate in ThreeJS.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
----
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Caterpillar</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux (CRUD) di un’applicazione per la gestione di strumenti aziendali.</td></tr>
+  <tr><td style="font-size:10px">NodeJS and ReactJS Developer</td></tr>
+</table>
 
-**MDOTM** 3 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS per la visualizzazione di grafici,
-gestione flussi con Recoil e sviluppo e validazione form.
-
----
-
-**Helon** 4 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux, con particolare
-attenzione alle animazioni sviluppate in ThreeJS.
-
----
-
-**Caterpillar** 4 mesi
-
-**NodeJS and ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux (CRUD) di
-un’applicazione per la gestione di strumenti aziendali.
-
----
-
-**Unicredit** 4 mesi
-
-**Front End ReactJS Developer**
-
-Sviluppo componenti ReactJS e flussi Redux di un’applicazione implementata in Javascript da convertire in ReactJS.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Unicredit</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS e flussi Redux di un’applicazione implementata in Javascript da convertire in ReactJS.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
 ---
 
@@ -72,8 +61,4 @@ Sviluppo componenti ReactJS e flussi Redux di un’applicazione implementata in 
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
-- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
+- 👨🏻‍💻 [Modalità d'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)

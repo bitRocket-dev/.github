@@ -14,27 +14,23 @@ Appassionato di videogame e di programmazione **Back End e Front End**. Subito d
 
 ## 👾 Esperienze principali
 
-**RocketCMS** 4 mesi
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">4 mesi</span></p></td><td rowspan="2"> SSviluppo database in MongoDB e infrastruttura Back End in NodeJS utilizzando NestJS con relativa sviluppo API e websocket. Implementazione flusso di autenticazione con JWT.</td></tr>
+  <tr><td style="font-size:10px">Back End NodeJS Developer</td></tr>
+</table>
 
-**Back End NodeJS Developer**
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Luxottica</span> <span style="font-size:11px">3mesi</span></p></td><td rowspan="2"> Architettura e sviluppo di un’intera applicazione Web per la gestione degli utenti con autenticazione Auth0. L’applicazione è stata realizzata in ReactJS su base Typescript.</td></tr>
+  <tr><td style="font-size:10px">Front End ReactJS Developer</td></tr>
+</table>
 
-Sviluppo database in MongoDB e infrastruttura Back End in NodeJS utilizzando NestJS con relativa sviluppo API e websocket. Implementazione flusso di autenticazione con JWT.
-
----
-
-**Luxottica** 3 mesi
-
-**Front End ReactJS Developer**
-
-Architettura e sviluppo di un’intera applicazione Web per la gestione degli utenti con autenticazione Auth0. L’applicazione è stata realizzata in ReactJS su base Typescript.
-
----
-
-**RocketCMS** 12 mesi
-
-**Front End React JS Developer**
-
-Sviluppo componenti ReactJS utilizzando EmotionJS e Storybook. Definizione di custom hook per la condivisione di flussi Redux tra Web e Mobile.
+<table>
+  <tr><td style="
+   column-width:280px"><p><span style="font-weight:bold">Rocket Cms</span> <span style="font-size:11px">12 mesi</span></p></td><td rowspan="2"> Sviluppo componenti ReactJS utilizzando EmotionJS e Storybook. Definizione di custom hook per la condivisione di flussi Redux tra Web e Mobile.</td></tr>
+  <tr><td style="font-size:10px">Front End React JS Developer</td></tr>
+</table>
 
 ---
 
@@ -53,8 +49,4 @@ Sviluppo componenti ReactJS utilizzando EmotionJS e Storybook. Definizione di cu
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
-- 🚀 [Perché scegliere bitRocket.dev](https://github.com/bitRocket-dev/.github/blob/main/pages/WHY_BITROCKET-DEV.md)
-- 👨🏻‍💻 [Come operiamo](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
-- 💪🏻 [Case histories](https://github.com/bitRocket-dev/.github/blob/main/profile/CASE_HISTORIES.md)
-- 🤓 [Il Manifesto del Rocket Dev](https://github.com/bitRocket-dev/.github/blob/main/pages/MANIFEST.md)
-- 👾 [Team Rocket](https://github.com/bitRocket-dev/.github/blob/main/pages/TEAM_ROCKET.md)
+- 👨🏻‍💻 [Modalità d'ingaggio](https://github.com/bitRocket-dev/.github/blob/main/pages/ABOUT.md)
