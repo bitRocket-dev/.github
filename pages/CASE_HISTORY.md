@@ -39,6 +39,14 @@ Per Banca d'Italia abbiamo sviluppato una piattaforma per l'acquisto e vendita d
 
 Per Banca Intesa San Paolo abbiamo sviluppato nuove funzionalità del gestionale interno utilizzato per l'assegnazione di score del personale. In particolar modo abbiamo sviluppato l'architettura e l'intero flusso dalla definizione logica alla sua implementazione.
 
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/vodafone_logo.png" height=60px alt='vodafone' title='vodafone'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/luxottica_logo.png" height=60px alt='luxottica' title='luxottica'>
+
+in aggiornamento.
+
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/dovevivo_logo.png" height=40px  alt='DoveVivo' title='DoveVivo'>
 
 in aggiornamento.
