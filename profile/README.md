@@ -52,7 +52,7 @@ Fino ad oggi la formazione si è tenuta _off-line_ in sede. **Attualmente stiamo
 
 # 🌎 Open Source
 
-Il nostro Team contribuisce allo sviluppo di numerosi progetti _Open Source_ , condividendo con la community linee guida sullo sviluppo e snippet di codice. [Clicca qui](https://github.com/bitRocket-dev/.github/blob/main/pages/OPEN_SOURCE.md) per **scaricare il codice pubblicato dai nostri talenti.** ======= Il nostro Team contribuisce allo sviluppo di numerosi progetti _Open Source_ . [Clicca qui](https://github.com/bitRocket-dev/.github/blob/main/pages/OPEN_SOURCE.md) per **scaricare il codice open source pubblicato dai nostri talenti.**
+Il nostro Team contribuisce allo sviluppo di numerosi progetti _Open Source_ , condividendo con la community linee guida sullo sviluppo e snippet di codice. [Clicca qui](https://github.com/bitRocket-dev/.github/blob/main/pages/OPEN_SOURCE.md) per **scaricare il codice pubblicato dai nostri talenti.**
 
 ---
 
