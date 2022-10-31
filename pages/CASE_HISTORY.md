@@ -37,7 +37,7 @@ in aggiornamento.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaintesa_logo.png" height=60px alt='Banca Intesa' title='Banca Intesa'>
 
-in aggiornamento.
+Per Banca Intesa San Paolo abbiamo sviluppato nuove funzionalità del gestionale interno utilizzato per l'assegnazione di score del personale. In particolar modo abbiamo sviluppato l'architettura e l'intero flusso dalla definizione logica alla sua implementazione.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/vodafone_logo.png" height=60px alt='vodafone' title='vodafone'>
 
@@ -54,6 +54,10 @@ in aggiornamento.
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/eurobet_logo.png" height=60px alt='eurobet' title='eurobet'>
 
 in aggiornamento.
+
+`IUNGO`
+
+Per Iungo abbiamo sviluppato un _Back End Simulator_ allo scopo di migliorare i flussi di sviluppo del team Front End, contribuendo allo sviluppo di nuove funzionalità dell'applicazione Web anche lato Front End.
 
 ---
 
