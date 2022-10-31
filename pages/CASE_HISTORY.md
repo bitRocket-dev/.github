@@ -27,13 +27,13 @@ Per Borsa Italiana abbiamo definito l'intera architettura di alcuni applicativi 
 
 Per Hype abbiamo sviluppato nuove funzionalità relative al flusso di creazione di un nuovo conto corrente e sviluppato un sistema di design system condiviso con diversi progetti interni.
 
-<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaditalia_logo.png" height=85px alt='Banca dItalia' title='Banca dItalia'>
-
-Per Banca d'Italia abbiamo sviluppato una piattaforma per l'acquisto e vendita di titoli azionari, definendo UI e l'intera architettura Front End.
-
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancasella_logo.png" height=100px  alt='Banca Sella' title='Banca Sella'>
 
 in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaditalia_logo.png" height=85px alt='Banca dItalia' title='Banca dItalia'>
+
+Per Banca d'Italia abbiamo sviluppato una piattaforma per l'acquisto e vendita di titoli azionari, definendo UI e l'intera architettura Front End.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/bancaintesa_logo.png" height=60px alt='Banca Intesa' title='Banca Intesa'>
 
@@ -47,6 +47,14 @@ in aggiornamento.
 
 in aggiornamento.
 
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/dovevivo_logo.png" height=40px  alt='DoveVivo' title='DoveVivo'>
+
+in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/iungo_logo.png" height=70px  alt='Iungo' title='Iungo'>
+
+Per Iungo abbiamo sviluppato un _Back End Simulator_ allo scopo di migliorare i flussi di sviluppo del team Front End, contribuendo allo sviluppo di nuove funzionalità dell'applicazione Web anche lato Front End.
+
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/enel_logo.png" height=60px alt='enel' title='enel'>
 
 in aggiornamento.
@@ -54,10 +62,6 @@ in aggiornamento.
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/eurobet_logo.png" height=60px alt='eurobet' title='eurobet'>
 
 in aggiornamento.
-
-`IUNGO`
-
-Per Iungo abbiamo sviluppato un _Back End Simulator_ allo scopo di migliorare i flussi di sviluppo del team Front End, contribuendo allo sviluppo di nuove funzionalità dell'applicazione Web anche lato Front End.
 
 ---
 
