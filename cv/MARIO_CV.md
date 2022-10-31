@@ -10,7 +10,7 @@ Grande appassionato di programmazione con forte propensione all’apprendimento 
 
 ## 🚀 Competenze
 
-`HTML5` | `CSS3` | `JavaScript` | `NodeJS` | `TypeScript` | `ReactJS` | `ReactNative` | `Git` | `Redux` | `Redux-Toolkit` | `MondogDB` | `GraphQL` | `NestJs` | `Docker` | `Cypress` | `NX` | `PrismaJs` |`Styled-components` | `Prettier` | `ESLint` | `Commitlint`
+<img  src="/assets/stack/html.svg" width=35px alt='Html' title='Html'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/css.svg" width=35px alt='Css' title='Css'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/javascript.svg" width=35px alt='Javascript' title='Javascript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/typescript.svg" width=35px alt='Typescript' title='Typescript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/nodejs.svg" width=35px alt='Nodejs' title='Nodejs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/reactjs.svg" width=35px alt='Reactjs' title='Reactjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/reactnative.svg" width=35px alt='Reactnative' title='Reactnative'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/git.png" width=35px alt='Git' title='Git'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/redux.svg" width=35px alt='Redux' title='Redux'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/mongodb.svg" width=35px alt='Mongodb' title='Mongodb'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/graphql.svg" width=35px alt='Graphql' title='Graphql'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/nestjs.svg" width=35px alt='Nestjs' title='Nestjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/docker.png" width=35px alt='Docker' title='Docker'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/cypress.svg" width=35px alt='Cypress' title='Cypress'>&nbsp;&nbsp;&nbsp;<img src="assets/stack/nx.png" width=35px alt="NX" title=" X">&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/prismajs.png" width=35px alt='Prismajs' title='Prismajs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/styled-components.png" width=35px alt='Styled components' title='Styled-components'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/prettier.svg" width=35px alt='Prettier' title='Prettier'>&nbsp;&nbsp;&nbsp; <img  src="/assets/stack/eslint.svg" width=35px alt='Eslint' title='Eslint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/commitlint.svg" width=35px alt='Commitlint' title='Commitlint'>&nbsp;&nbsp;&nbsp;
 
 ## 👾 Esperienze principali
 
@@ -40,8 +40,7 @@ Grande appassionato di programmazione con forte propensione all’apprendimento 
 
 ---
 
-👉🏻 [Profilo GitHub](https://github.com/marioisca-bitrocketdev)
-👉🏻 [Profilo Gist](https://gist.github.com/marioisca-bitrocketdev)
+👉🏻 [Profilo GitHub](https://github.com/marioisca-bitrocketdev) 👉🏻 [Profilo Gist](https://gist.github.com/marioisca-bitrocketdev)
 
 ---
 

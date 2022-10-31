@@ -10,7 +10,7 @@ Ottima propensione al lavoro in team. Dopo aver completato il percorso di laurea
 
 ## 🚀 Competenze
 
-`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `ReactJS` | `ReactNative` | `Git` | `Redux` | `Redux-Toolkit` | `Redux-Saga` | `Styled-components` | `Prettier` | `ESLint` | ` Commitlint` | `Storybook` | `Cypress` | `Gatsby` | `GraphQL`
+<img  src="/assets/stack/html.svg" width=35px alt='Html' title='Html'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/css.svg" width=35px alt='Css' title='Css'>&nbsp;&nbsp;&nbsp;<img src="/assets/stack/sass.png" width=35px alt="Sass" title="Sass"><img  src="/assets/stack/javascript.svg" width=35px alt='Javascript' title='Javascript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/typescript.svg" width=35px alt='Typescript' title='Typescript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/reactjs.svg" width=35px alt='Reactjs' title='Reactjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/reactnative.svg" width=35px alt='Reactnative' title='Reactnative'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/git.png" width=35px alt='Git' title='Git'>&nbsp;&nbsp;&nbsp; <img  src="/assets/stack/redux.svg" width=35px alt='Redux' title='Redux'>&nbsp;&nbsp;&nbsp;<img src="/assets/stack/redux-saga.svg" width=35px alt="Redux saga" title="Redux saga">&nbsp;&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/styled-components.png" width=35px alt='Styled components' title='Styled-components'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/prettier.svg" width=35px alt='Prettier' title='Prettier'>&nbsp;&nbsp;&nbsp; <img  src="/assets/stack/eslint.svg" width=35px alt='Eslint' title='Eslint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/commitlint.svg" width=35px alt='Commitlint' title='Commitlint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/storybook.svg" width=35px alt='Storybook' title='Storybook'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/cypress.svg" width=35px alt='Cypress' title='Cypress'>&nbsp;&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/gatsby.svg" width=35px alt='Gatsby' title='Gatsby'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/graphql.svg" width=35px alt='Graphql' title='Graphql'>
 
 ## 👾 Esperienze principali
 
@@ -52,8 +52,7 @@ Ottima propensione al lavoro in team. Dopo aver completato il percorso di laurea
 
 ---
 
-👉🏻 [Profilo GitHub](https://github.com/vincenzodesisto-bitrocketdev)
-👉🏻 [Profilo Gist](https://gist.github.com/vincenzodesisto-bitrocketdev)
+👉🏻 [Profilo GitHub](https://github.com/vincenzodesisto-bitrocketdev) 👉🏻 [Profilo Gist](https://gist.github.com/vincenzodesisto-bitrocketdev)
 
 ---
 

@@ -8,9 +8,9 @@
 
 Appassionato di videogame, silenzioso e con grande dedizione al lavoro. La mia esperienza nel mondo della programmazione comincia all’università con l’utilizzo del linguaggio R , per il calcolo di statistiche e analisi dati. In parallelo ho studiato come auto-didatta acquistando alcuni corsi su Udemy. Durante l’ultimo anno di studi, ho partecipato al bootcamp di programmazione di bitRocket.dev, che mi ha permesso di consolidare le competenze in **HTML**, **CSS** e **Javascript**, imparando la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** su base **Typescript**.
 
-## 🚀 Competenze
+## 💪🏻 Competenze
 
-`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `ReactJS` | `Git` | `Redux` | `Styled-components` | `EmotionJS` | `Prettier` | `ESLint` | ` Commitlint` | `Storybook`
+<img  src="/assets/stack/html.svg" width=35px alt='Html' title='Html'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/css.svg" width=35px alt='Css' title='Css'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/javascript.svg" width=35px alt='Javascript' title='Javascript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/typescript.svg" width=35px alt='Typescript' title='Typescript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/reactjs.svg" width=35px alt='Reactjs' title='Reactjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/redux.svg" width=35px alt='Redux' title='Redux'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/emotionjs.png" width=35px alt='Emotionjs' title='Emotionjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/styled-components.png" width=35px alt='Styled components' title='Styled-components'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/prettier.svg" width=35px alt='Prettier' title='Prettier'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/eslint.svg" width=35px alt='Eslint' title='Eslint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/commitlint.svg" width=35px alt='Commitlint' title='Commitlint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/storybook.svg" width=35px alt='Storybook' title='Storybook'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/git.png" width=35px alt='Git' title='Git'></p>
 
 ## 👾 Esperienze principali
 
@@ -28,8 +28,7 @@ Appassionato di videogame, silenzioso e con grande dedizione al lavoro. La mia e
 
 ---
 
-👉🏻 [Profilo GitHub](https://github.com/giulianorandazzo-bitrocketdev)
-👉🏻 [Profilo Gist](https://gist.github.com/giulianorandazzo-bitrocketdev)
+👉🏻 [Profilo GitHub](https://github.com/giulianorandazzo-bitrocketdev) 👉🏻 [Profilo Gist](https://gist.github.com/giulianorandazzo-bitrocketdev)
 
 ---
 

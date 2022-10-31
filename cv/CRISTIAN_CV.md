@@ -8,9 +8,9 @@
 
 Appassionato di programmazione sin dai tempi del liceo in cui ho appreso la programmazione ad oggetti e programmato in Java e C++. Subito dopo il diploma mi sono iscritto alla facoltà di Informatica, dove ho consolidato le competenze nella programmazione Web. Parallelamente al percorso di studi ho partecipato al bootcamp di 6 mesi, organizzato da bitRocket.dev, dove ho imparato la **metodologia Scrum**, specializzandomi nello sviluppo di applicazioni Web e Mobile in **ReactJS** e **React Native** su base **Typescript**.
 
-## 🚀 Competenze
+## 💪🏻 Competenze
 
-`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `ReactJS` | `Git` | `Redux` | `Redux-Toolkit` | `EmotionJS` | `Styled-components` | `Prettier` | `ESLint` | `Commitlint` | `Storybook`
+<p><img  src="/assets/stack/html.svg" width=35px alt='Html' title='Html'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/css.svg" width=35px alt='Css' title='Css'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/javascript.svg" width=35px alt='Javascript' title='Javascript'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/typescript.svg" width=35px alt='Typescript' title='Typescript'>&nbsp;&nbsp;&nbsp;;<img  src="/assets/stack/reactjs.svg" width=35px alt='Reactjs' title='Reactjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/redux.svg" width=35px alt='Redux' title='Redux'>&nbsp;&nbsp;&nbsp; <img  src="/assets/stack/emotionjs.png" width=35px alt='Emotionjs' title='Emotionjs'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/styled-components.png" width=35px alt='Styled components' title='Styled-components'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/prettier.svg" width=35px alt='Prettier' title='Prettier'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/eslint.svg" width=35px alt='Eslint' title='Eslint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/commitlint.svg" width=35px alt='Commitlint' title='Commitlint'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/storybook.svg" width=35px alt='Storybook' title='Storybook'>&nbsp;&nbsp;&nbsp;<img  src="/assets/stack/git.png" width=35px alt='Git' title='Git'></p>
 
 ## 👾 Esperienze principali
 
@@ -36,8 +36,7 @@ Appassionato di programmazione sin dai tempi del liceo in cui ho appreso la prog
 
 ---
 
-👉🏻 [Profilo GitHub](https://github.com/cristianpalermo-bitrocketdev)
-👉🏻 [Profilo Gist](https://gist.github.com/cristianpalermo-bitrocketdev)
+👉🏻 [Profilo GitHub](https://github.com/cristianpalermo-bitrocketdev) 👉🏻 [Profilo Gist](https://gist.github.com/cristianpalermo-bitrocketdev)
 
 ---
 
