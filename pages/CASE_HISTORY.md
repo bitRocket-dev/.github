@@ -2,18 +2,15 @@
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/unicredit_logo.png" height=50px alt='Unicredit' title='Unicredit'>
 
-Per Unicredit abbiamo sviluppato un gestionale interno mirato ad anallizzare i dati dei correntisti.
-Di notevole successo è stato lo sviluppo di un’architettura React Oriented realizzata interamente in Javascript e jQuery, divenuta modello per tutti gli altri gestionali interni.
+Per Unicredit abbiamo sviluppato un gestionale interno mirato ad anallizzare i dati dei correntisti. Di notevole successo è stato lo sviluppo di un’architettura React Oriented realizzata interamente in Javascript e jQuery, divenuta modello per tutti gli altri gestionali interni.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/illimiti_logo.png" height=50px  alt='Illimity Bank' title='Illimity Bank'>
 
-Per Illimity Bank, abbiamo sviluppato Illimity Connect, il primo aggregatore finanziario italiano basato sulla direttiva PSD2.
-Il nostro intervento ha reso possibile la gestione di più conti correnti direttamente dall’applicativo di Illimity Bank.
+Per Illimity Bank, abbiamo sviluppato Illimity Connect, il primo aggregatore finanziario italiano basato sulla direttiva PSD2. Il nostro intervento ha reso possibile la gestione di più conti correnti direttamente dall’applicativo di Illimity Bank.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/creditagricole_logo.png" height=40px   alt='Crédit Agricole' title='Crédit Agricole'>
 
-Per Crédit Agricole ci siamo occupati di migliorare le performance dell’applicativo mobile, rivedendo l’intera architettura del progetto, allo scopo di definire standard e linee guida nella
-scrittura del codice.
+Per Crédit Agricole ci siamo occupati di migliorare le performance dell’applicativo mobile, rivedendo l’intera architettura del progetto, allo scopo di definire standard e linee guida nella scrittura del codice.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/pagopa_logo.png" height=100px alt='PagoPA' title='PagoPA'>
 
@@ -62,6 +59,10 @@ in aggiornamento.
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/eurobet_logo.png" height=60px alt='eurobet' title='eurobet'>
 
 in aggiornamento.
+
+<img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/philipmorris_logo.png" height=60px alt='Philip Morris International' title='Philip Morris International'>
+
+Per Philip Morris sono state progettate delle nuove sezioni a partire dai mockup fino alla loro successiva realizzazione. L'attività principale riguarda la rappresentazione di numerosi dati su diverse tipologie di grafici.
 
 ---
 
