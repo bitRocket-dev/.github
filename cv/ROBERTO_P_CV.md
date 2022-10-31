@@ -50,10 +50,6 @@ Sviluppo componenti ReactJS per la visualizzazione di grafici, gestione flussi c
 
 ---
 
-# ::: ATTENZIONE :::
-
-**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
 ---
 
 ##### Continua a leggere
