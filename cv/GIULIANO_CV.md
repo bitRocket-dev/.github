@@ -33,12 +33,6 @@ Appassionato di videogame, silenzioso e con grande dedizione al lavoro. La mia e
 
 ---
 
-# ::: ATTENZIONE :::
-
-**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
----
-
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)
