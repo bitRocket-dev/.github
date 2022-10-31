@@ -62,7 +62,7 @@ in aggiornamento.
 
 <img src="https://github.com/bitRocket-dev/.github/blob/main/assets/clients/philipmorris_logo.png" height=60px alt='Philip Morris International' title='Philip Morris International'>
 
-Per Philip Morris sono state progettate delle nuove sezioni a partire dai mockup fino alla loro successiva realizzazione. L'attività principale riguarda la rappresentazione di numerosi dati su diverse tipologie di grafici.
+Per Philip Morris abbiamo progettato delle nuove sezioni di un gestionale interno, dalla definizione della UI alla relativa implementazione, con particolare attenzione alla visualizzazione dei dati all'interno di grafici.
 
 ---
 
