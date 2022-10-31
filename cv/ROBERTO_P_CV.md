@@ -15,30 +15,35 @@ Appassionato di videogame, ho scoperto la mia attitudine alla programmazione nel
 # 👾 Esperienze principali
 
 ## Unicredit // 4 mesi
+
 #### Front End ReactJS Developer
 
 Sviluppo componenti ReactJS e flussi Redux di un’applicazione implementata in Javascript da convertire in ReactJS.
 
 ## DoveVivo // 6 mesi
-#### Front End ReactJS Developer 
+
+#### Front End ReactJS Developer
+
 Sviluppo componenti ReactJS e flussi Redux di un applicazione SSR
 sviluppata con Gatsby, con particolare attenzione al SEO.
 
 ## Helon // 4 mesi
+
 #### Front End ReactJS Developer
 
 Sviluppo componenti ReactJS e flussi Redux, con particolare attenzione alle animazioni sviluppate in ThreeJS.
 
 ## Caterpillar // 4 mesi
+
 #### NodeJS and ReactJS Developer
 
 Sviluppo componenti ReactJS e flussi Redux (CRUD) di un’applicazione per la gestione di strumenti aziendali.
 
 ## MDOTM // 3 mesi
+
 #### Front End ReactJS Developer
 
 Sviluppo componenti ReactJS per la visualizzazione di grafici, gestione flussi con Recoil e sviluppo e validazione form.
-
 
 ---
 

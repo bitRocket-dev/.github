@@ -41,12 +41,6 @@ Appassionato di programmazione sin dai tempi del liceo in cui ho appreso la prog
 
 ---
 
-# ::: ATTENZIONE :::
-
-**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
----
-
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)

@@ -45,12 +45,6 @@ Appassionato di Design e con estrema attitudine al lavoro in team. Subito dopo e
 
 ---
 
-# ::: ATTENZIONE :::
-
-**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
----
-
 ##### Continua a leggere
 
 - 🏠 [Torna alla Home](https://github.com/bitRocket-dev)

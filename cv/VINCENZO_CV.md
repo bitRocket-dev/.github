@@ -52,10 +52,6 @@ Ottima propensione al lavoro in team. Dopo aver completato il percorso di laurea
 
 ---
 
-# ::: ATTENZIONE :::
-
-**Le informazioni contenute in questo documento sono riservate. Il presente documento e i dati in esso contenuti, non possono essere duplicati o manipolati. L’ utilizzo non autorizzato potrebbe costituire reato.**
-
 👉🏻 [Profilo GitHub](https://github.com/vincenzodesisto-bitrocketdev)
 👉🏻 [Profilo Gist](https://gist.github.com/vincenzodesisto-bitrocketdev)
 
