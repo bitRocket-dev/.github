@@ -1,6 +1,6 @@
 # Gabriele // 27 anni
 
-## 27 anni, +3 anni di esperienza
+## +3 anni di esperienza
 
 ---
 
